@@ -1,0 +1,1444 @@
+2020-09-26 16:41:30,437 - BaseClass -INFO - Base URL Open
+2020-09-26 16:41:30,480 - BaseClass -INFO - driver init
+2020-09-26 16:41:30,552 - BaseClass -INFO - username pass
+2020-09-26 16:41:30,610 - BaseClass -INFO - password pass
+2020-09-26 16:41:31,761 - BaseClass -INFO - login click
+2020-09-26 16:41:31,767 - BaseClass -INFO - Login test FAIL
+2020-09-26 16:45:42,211 - BaseClass -INFO - Base URL Open
+2020-09-26 16:45:42,231 - BaseClass -INFO - driver init
+2020-09-26 16:45:42,306 - BaseClass -INFO - username pass
+2020-09-26 16:45:42,367 - BaseClass -INFO - password pass
+2020-09-26 16:45:43,693 - BaseClass -INFO - login click
+2020-09-26 16:45:43,699 - BaseClass -INFO - Login test FAIL
+2020-09-27 16:55:48,553 - BaseClass -INFO - Chrome Open
+2020-09-27 16:55:50,934 - BaseClass -INFO - Base URL Open
+2020-09-27 16:55:50,949 - BaseClass -INFO - driver init
+2020-09-27 16:55:51,026 - BaseClass -INFO - username pass
+2020-09-27 16:55:51,087 - BaseClass -INFO - password pass
+2020-09-27 16:55:52,220 - BaseClass -INFO - login click
+2020-09-27 16:55:52,229 - BaseClass -INFO - Login test FAIL
+2020-09-27 16:56:57,889 - BaseClass -INFO - FireFox Open
+2020-09-27 16:57:07,833 - BaseClass -INFO - Base URL Open
+2020-09-27 16:57:07,853 - BaseClass -INFO - driver init
+2020-09-27 16:57:07,899 - BaseClass -INFO - username pass
+2020-09-27 16:57:07,923 - BaseClass -INFO - password pass
+2020-09-27 16:57:13,090 - BaseClass -INFO - login click
+2020-09-27 16:57:13,093 - BaseClass -INFO - Login test FAIL
+2020-09-27 16:58:07,207 - BaseClass -INFO - Chrome Open
+2020-09-27 16:58:09,469 - BaseClass -INFO - Base URL Open
+2020-09-27 16:58:09,485 - BaseClass -INFO - driver init
+2020-09-27 16:58:09,557 - BaseClass -INFO - username pass
+2020-09-27 16:58:09,613 - BaseClass -INFO - password pass
+2020-09-27 16:58:10,603 - BaseClass -INFO - login click
+2020-09-27 16:58:10,607 - BaseClass -INFO - Login test FAIL
+2020-09-27 16:59:18,233 - BaseClass -INFO - Chrome Open
+2020-09-27 16:59:23,592 - BaseClass -INFO - Base URL Open
+2020-09-27 16:59:23,612 - BaseClass -INFO - driver init
+2020-09-27 16:59:23,686 - BaseClass -INFO - username pass
+2020-09-27 16:59:23,740 - BaseClass -INFO - password pass
+2020-09-27 16:59:25,150 - BaseClass -INFO - login click
+2020-09-27 16:59:25,154 - BaseClass -INFO - Login test FAIL
+2020-09-27 17:01:15,166 - BaseClass -INFO - Chrome Open
+2020-09-27 17:01:17,607 - BaseClass -INFO - Base URL Open
+2020-09-27 17:01:17,623 - BaseClass -INFO - driver init
+2020-09-27 17:01:17,692 - BaseClass -INFO - username pass
+2020-09-27 17:01:17,747 - BaseClass -INFO - password pass
+2020-09-27 17:01:19,049 - BaseClass -INFO - login click
+2020-09-27 17:01:19,057 - BaseClass -INFO - Login test FAIL
+2020-09-27 17:01:23,890 - BaseClass -INFO - FireFox Open
+2020-09-27 17:01:35,085 - BaseClass -INFO - Base URL Open
+2020-09-27 17:01:35,086 - BaseClass -INFO - driver init
+2020-09-27 17:01:35,134 - BaseClass -INFO - username pass
+2020-09-27 17:01:35,157 - BaseClass -INFO - password pass
+2020-09-27 17:01:35,727 - BaseClass -INFO - login click
+2020-09-27 17:01:35,731 - BaseClass -INFO - Login test FAIL
+2020-09-27 17:02:57,174 - BaseClass -INFO - Chrome Open
+2020-09-27 17:02:59,957 - BaseClass -INFO - Base URL Open
+2020-09-27 17:02:59,975 - BaseClass -INFO - driver init
+2020-09-27 17:03:00,052 - BaseClass -INFO - username pass
+2020-09-27 17:03:00,106 - BaseClass -INFO - password pass
+2020-09-27 17:03:02,297 - BaseClass -INFO - login click
+2020-09-27 17:03:02,302 - BaseClass -INFO - Login test FAIL
+2020-09-27 17:03:06,213 - BaseClass -INFO - FireFox Open
+2020-09-27 17:03:15,798 - BaseClass -INFO - Base URL Open
+2020-09-27 17:03:15,798 - BaseClass -INFO - driver init
+2020-09-27 17:03:15,859 - BaseClass -INFO - username pass
+2020-09-27 17:03:15,883 - BaseClass -INFO - password pass
+2020-09-27 17:03:16,477 - BaseClass -INFO - login click
+2020-09-27 17:03:16,480 - BaseClass -INFO - Login test FAIL
+2020-09-27 17:33:32,152 - BaseClass -INFO - Chrome Open
+2020-09-27 17:33:38,412 - BaseClass -INFO - Base URL Open
+2020-09-27 17:33:38,431 - BaseClass -INFO - driver init
+2020-09-27 17:33:38,515 - BaseClass -INFO - username pass
+2020-09-27 17:33:38,585 - BaseClass -INFO - password pass
+2020-09-27 17:33:39,534 - BaseClass -INFO - login click
+2020-09-27 17:33:40,096 - BaseClass -INFO - Login test PASS
+2020-09-27 17:33:44,018 - BaseClass -INFO - FireFox Open
+2020-09-27 17:33:54,545 - BaseClass -INFO - Base URL Open
+2020-09-27 17:33:54,545 - BaseClass -INFO - driver init
+2020-09-27 17:33:54,588 - BaseClass -INFO - username pass
+2020-09-27 17:33:54,614 - BaseClass -INFO - password pass
+2020-09-27 17:33:55,243 - BaseClass -INFO - login click
+2020-09-27 17:33:55,250 - BaseClass -INFO - Login test FAIL
+2020-09-27 17:37:05,024 - BaseClass -INFO - Chrome Open
+2020-09-27 17:37:07,455 - BaseClass -INFO - Base URL Open
+2020-09-27 17:37:07,471 - BaseClass -INFO - driver init
+2020-09-27 17:37:07,545 - BaseClass -INFO - username pass
+2020-09-27 17:37:07,607 - BaseClass -INFO - password pass
+2020-09-27 17:37:08,714 - BaseClass -INFO - login click
+2020-09-27 17:37:08,718 - BaseClass -INFO - Login test PASS
+2020-10-01 15:00:14,866 - BaseClass -INFO - Chrome Open
+2020-10-01 15:00:17,914 - BaseClass -INFO - Base URL Open
+2020-10-01 15:00:17,944 - BaseClass -INFO - driver init
+2020-10-01 15:00:18,020 - BaseClass -INFO - username pass
+2020-10-01 15:00:18,077 - BaseClass -INFO - password pass
+2020-10-01 15:00:19,595 - BaseClass -INFO - login click
+2020-10-01 15:00:19,609 - BaseClass -INFO - Login test FAIL
+2020-10-01 15:00:19,976 - BaseClass -INFO - Screen shot attached
+2020-10-01 15:04:28,229 - BaseClass -INFO - Chrome Open
+2020-10-01 15:04:31,696 - BaseClass -INFO - Base URL Open
+2020-10-01 15:04:31,713 - BaseClass -INFO - driver init
+2020-10-01 15:04:31,786 - BaseClass -INFO - username pass
+2020-10-01 15:04:31,843 - BaseClass -INFO - password pass
+2020-10-01 15:04:33,167 - BaseClass -INFO - login click
+2020-10-01 15:04:33,174 - BaseClass -INFO - Login test FAIL
+2020-10-01 15:04:33,485 - BaseClass -INFO - Screen shot attached
+2020-10-01 15:08:01,760 - BaseClass -INFO - Chrome Open
+2020-10-01 15:08:04,623 - BaseClass -INFO - Base URL Open
+2020-10-01 15:08:04,639 - BaseClass -INFO - driver init
+2020-10-01 15:08:04,713 - BaseClass -INFO - username pass
+2020-10-01 15:08:04,769 - BaseClass -INFO - password pass
+2020-10-01 15:08:06,517 - BaseClass -INFO - login click
+2020-10-01 15:08:06,785 - BaseClass -INFO - Login test FAIL SS attached
+2020-10-01 15:09:06,237 - BaseClass -INFO - Chrome Open
+2020-10-01 15:09:08,779 - BaseClass -INFO - Base URL Open
+2020-10-01 15:09:08,798 - BaseClass -INFO - driver init
+2020-10-01 15:09:08,873 - BaseClass -INFO - username pass
+2020-10-01 15:09:08,926 - BaseClass -INFO - password pass
+2020-10-01 15:09:10,462 - BaseClass -INFO - login click
+2020-10-01 15:09:46,960 - BaseClass -INFO - Login test FAIL SS attached
+2020-10-01 15:14:01,140 - BaseClass -INFO - Chrome Open
+2020-10-01 15:14:03,765 - BaseClass -INFO - Base URL Open
+2020-10-01 15:14:03,783 - BaseClass -INFO - driver init
+2020-10-01 15:14:03,862 - BaseClass -INFO - username pass
+2020-10-01 15:14:03,916 - BaseClass -INFO - password pass
+2020-10-01 15:14:05,183 - BaseClass -INFO - login click
+2020-10-01 16:30:51,526 - BaseClass -INFO - Chrome Open
+2020-10-01 16:30:54,353 - BaseClass -INFO - Base URL Open
+2020-10-01 16:30:54,371 - BaseClass -INFO - driver init
+2020-10-01 16:30:54,455 - BaseClass -INFO - username pass
+2020-10-01 16:30:54,507 - BaseClass -INFO - password pass
+2020-10-01 16:30:55,912 - BaseClass -INFO - login click
+2020-10-01 16:32:42,449 - BaseClass -INFO - Chrome Open
+2020-10-01 16:32:45,048 - BaseClass -INFO - Base URL Open
+2020-10-01 16:32:45,064 - BaseClass -INFO - driver init
+2020-10-01 16:32:45,143 - BaseClass -INFO - username pass
+2020-10-01 16:32:45,203 - BaseClass -INFO - password pass
+2020-10-01 16:32:46,336 - BaseClass -INFO - login click
+2020-10-01 16:34:13,416 - BaseClass -INFO - Chrome Open
+2020-10-01 16:34:16,261 - BaseClass -INFO - Base URL Open
+2020-10-01 16:34:16,275 - BaseClass -INFO - driver init
+2020-10-01 16:34:16,356 - BaseClass -INFO - username pass
+2020-10-01 16:34:16,411 - BaseClass -INFO - password pass
+2020-10-01 16:34:17,943 - BaseClass -INFO - login click
+2020-10-03 16:35:15,726 - BaseClass -INFO - Chrome Open
+2020-10-03 16:35:23,817 - BaseClass -INFO - Base URL Open
+2020-10-03 16:35:23,864 - BaseClass -INFO - driver init
+2020-10-03 16:35:24,425 - BaseClass -INFO - username pass
+2020-10-03 16:35:24,513 - BaseClass -INFO - password pass
+2020-10-03 16:35:26,623 - BaseClass -INFO - login click
+2020-10-03 16:38:01,323 - BaseClass -INFO - Chrome Open
+2020-10-03 16:52:14,992 - BaseClass -INFO - Chrome Open
+2020-10-03 16:55:23,066 - BaseClass -INFO - Chrome Open
+2020-10-03 17:00:07,841 - BaseClass -INFO - Chrome Open
+2020-10-03 17:02:00,901 - BaseClass -INFO - Chrome Open
+2020-10-03 17:05:42,672 - BaseClass -INFO - Chrome Open
+2020-10-03 17:08:21,654 - BaseClass -INFO - Chrome Open
+2020-10-03 17:09:06,755 - BaseClass -INFO - Chrome Open
+2020-10-04 16:01:40,256 - BaseClass -INFO - Chrome Open
+2020-10-04 16:03:51,734 - BaseClass -INFO - Chrome Open
+2020-10-04 16:05:14,136 - BaseClass -INFO - Chrome Open
+2020-10-04 16:07:26,286 - BaseClass -INFO - Chrome Open
+2020-10-04 16:11:20,416 - BaseClass -INFO - Chrome Open
+2020-10-04 16:13:46,447 - BaseClass -INFO - Chrome Open
+2020-10-04 16:18:22,959 - BaseClass -INFO - Chrome Open
+2020-10-04 16:20:45,118 - BaseClass -INFO - Chrome Open
+2020-10-04 16:20:48,334 - BaseClass -INFO - Thread started
+2020-10-04 16:20:51,374 - BaseClass -INFO - Thread started
+2020-10-04 16:20:54,380 - BaseClass -INFO - Thread started
+2020-10-04 16:20:57,383 - BaseClass -INFO - Thread started
+2020-10-04 16:21:00,386 - BaseClass -INFO - Thread started
+2020-10-04 16:21:03,388 - BaseClass -INFO - Thread started
+2020-10-04 16:21:06,392 - BaseClass -INFO - Thread started
+2020-10-04 16:21:09,394 - BaseClass -INFO - Thread started
+2020-10-04 16:21:12,397 - BaseClass -INFO - Thread started
+2020-10-04 16:21:15,401 - BaseClass -INFO - Thread started
+2020-10-04 16:21:18,406 - BaseClass -INFO - Thread started
+2020-10-04 16:21:21,408 - BaseClass -INFO - Thread started
+2020-10-04 16:24:13,067 - BaseClass -INFO - Chrome Open
+2020-10-04 16:24:16,793 - BaseClass -INFO - Thread started
+2020-10-04 16:24:19,814 - BaseClass -INFO - Thread started
+2020-10-04 16:24:22,822 - BaseClass -INFO - Thread started
+2020-10-04 16:24:25,826 - BaseClass -INFO - Thread started
+2020-10-04 16:24:28,829 - BaseClass -INFO - Thread started
+2020-10-04 16:24:31,831 - BaseClass -INFO - Thread started
+2020-10-04 16:24:34,838 - BaseClass -INFO - Thread started
+2020-10-04 16:24:37,840 - BaseClass -INFO - Thread started
+2020-10-04 16:24:40,843 - BaseClass -INFO - Thread started
+2020-10-04 16:24:43,847 - BaseClass -INFO - Thread started
+2020-10-04 16:24:46,850 - BaseClass -INFO - Thread started
+2020-10-04 16:24:49,852 - BaseClass -INFO - Thread started
+2020-10-04 16:26:40,451 - BaseClass -INFO - Chrome Open
+2020-10-04 16:26:44,194 - BaseClass -INFO - Thread started
+2020-10-04 16:26:47,211 - BaseClass -INFO - Thread started
+2020-10-04 16:26:50,214 - BaseClass -INFO - Thread started
+2020-10-04 16:26:53,218 - BaseClass -INFO - Thread started
+2020-10-04 16:28:47,791 - BaseClass -INFO - Chrome Open
+2020-10-04 16:30:09,173 - BaseClass -INFO - Chrome Open
+2020-10-04 16:36:52,256 - BaseClass -INFO - Chrome Open
+2020-10-04 16:38:26,457 - BaseClass -INFO - Chrome Open
+2020-10-04 16:38:30,718 - BaseClass -INFO - Thread started
+2020-10-04 16:38:33,742 - BaseClass -INFO - Thread started
+2020-10-04 16:38:36,747 - BaseClass -INFO - Thread started
+2020-10-04 16:38:39,751 - BaseClass -INFO - Thread started
+2020-10-04 16:38:42,754 - BaseClass -INFO - Thread started
+2020-10-04 16:38:45,757 - BaseClass -INFO - Thread started
+2020-10-04 16:38:48,759 - BaseClass -INFO - Thread started
+2020-10-04 16:38:51,764 - BaseClass -INFO - Thread started
+2020-10-04 16:38:54,768 - BaseClass -INFO - Thread started
+2020-10-04 16:38:57,770 - BaseClass -INFO - Thread started
+2020-10-04 16:39:00,773 - BaseClass -INFO - Thread started
+2020-10-04 16:39:03,779 - BaseClass -INFO - Thread started
+2020-10-04 16:40:15,748 - BaseClass -INFO - Chrome Open
+2020-10-04 16:40:19,457 - BaseClass -INFO - Thread started
+2020-10-04 16:40:19,476 - BaseClass -INFO - Thread started
+2020-10-04 16:40:19,492 - BaseClass -INFO - Thread started
+2020-10-04 16:40:19,497 - BaseClass -INFO - Thread started
+2020-10-04 16:40:19,502 - BaseClass -INFO - Thread started
+2020-10-04 16:40:19,505 - BaseClass -INFO - Thread started
+2020-10-04 16:40:19,510 - BaseClass -INFO - Thread started
+2020-10-04 16:40:19,516 - BaseClass -INFO - Thread started
+2020-10-04 16:40:19,526 - BaseClass -INFO - Thread started
+2020-10-04 16:40:19,533 - BaseClass -INFO - Thread started
+2020-10-04 16:40:19,544 - BaseClass -INFO - Thread started
+2020-10-04 16:40:19,548 - BaseClass -INFO - Thread started
+2020-10-04 16:44:25,486 - BaseClass -INFO - Chrome Open
+2020-10-04 16:44:29,478 - BaseClass -INFO - Thread started
+2020-10-04 16:44:29,541 - BaseClass -INFO - Thread started
+2020-10-04 16:44:29,552 - BaseClass -INFO - Thread started
+2020-10-04 16:44:29,567 - BaseClass -INFO - Thread started
+2020-10-04 16:44:29,577 - BaseClass -INFO - Thread started
+2020-10-04 16:44:29,589 - BaseClass -INFO - Thread started
+2020-10-04 16:44:29,603 - BaseClass -INFO - Thread started
+2020-10-04 16:44:29,610 - BaseClass -INFO - Thread started
+2020-10-04 16:44:29,614 - BaseClass -INFO - Thread started
+2020-10-04 16:44:29,626 - BaseClass -INFO - Thread started
+2020-10-04 16:44:29,631 - BaseClass -INFO - Thread started
+2020-10-04 16:44:29,635 - BaseClass -INFO - Thread started
+2020-10-04 16:46:37,770 - BaseClass -INFO - Chrome Open
+2020-10-04 16:46:42,214 - BaseClass -INFO - Thread started
+2020-10-04 16:46:42,395 - BaseClass -INFO - Usename set
+2020-10-04 16:46:42,460 - BaseClass -INFO - password set
+2020-10-04 16:46:42,519 - BaseClass -INFO - Thread started
+2020-10-04 16:46:42,597 - BaseClass -INFO - Usename set
+2020-10-04 16:46:42,638 - BaseClass -INFO - password set
+2020-10-04 16:46:42,651 - BaseClass -INFO - Thread started
+2020-10-04 16:46:42,718 - BaseClass -INFO - Usename set
+2020-10-04 16:46:42,758 - BaseClass -INFO - password set
+2020-10-04 16:46:42,769 - BaseClass -INFO - Thread started
+2020-10-04 16:46:42,810 - BaseClass -INFO - Usename set
+2020-10-04 16:46:42,850 - BaseClass -INFO - password set
+2020-10-04 16:46:42,868 - BaseClass -INFO - Thread started
+2020-10-04 16:46:42,917 - BaseClass -INFO - Usename set
+2020-10-04 16:46:42,963 - BaseClass -INFO - password set
+2020-10-04 16:46:42,976 - BaseClass -INFO - Thread started
+2020-10-04 16:46:43,036 - BaseClass -INFO - Usename set
+2020-10-04 16:46:43,078 - BaseClass -INFO - password set
+2020-10-04 16:46:43,089 - BaseClass -INFO - Thread started
+2020-10-04 16:46:43,128 - BaseClass -INFO - Usename set
+2020-10-04 16:46:43,175 - BaseClass -INFO - password set
+2020-10-04 16:46:43,188 - BaseClass -INFO - Thread started
+2020-10-04 16:46:43,227 - BaseClass -INFO - Usename set
+2020-10-04 16:46:43,273 - BaseClass -INFO - password set
+2020-10-04 16:46:43,286 - BaseClass -INFO - Thread started
+2020-10-04 16:46:43,340 - BaseClass -INFO - Usename set
+2020-10-04 16:46:43,383 - BaseClass -INFO - password set
+2020-10-04 16:46:43,395 - BaseClass -INFO - Thread started
+2020-10-04 16:46:43,447 - BaseClass -INFO - Usename set
+2020-10-04 16:46:43,487 - BaseClass -INFO - password set
+2020-10-04 16:46:43,499 - BaseClass -INFO - Thread started
+2020-10-04 16:46:43,578 - BaseClass -INFO - Usename set
+2020-10-04 16:46:43,631 - BaseClass -INFO - password set
+2020-10-04 16:46:43,829 - BaseClass -INFO - Thread started
+2020-10-04 16:46:43,909 - BaseClass -INFO - Usename set
+2020-10-04 16:46:43,962 - BaseClass -INFO - password set
+2020-10-04 16:47:47,748 - BaseClass -INFO - Chrome Open
+2020-10-04 16:47:50,913 - BaseClass -INFO - Thread started
+2020-10-04 16:47:51,029 - BaseClass -INFO - Usename set
+2020-10-04 16:47:51,098 - BaseClass -INFO - password set
+2020-10-04 16:47:52,724 - BaseClass -INFO - Login click
+2020-10-04 16:47:55,758 - BaseClass -INFO - Login passed
+2020-10-04 16:48:02,583 - BaseClass -INFO - Thread started
+2020-10-04 16:48:02,647 - BaseClass -INFO - Usename set
+2020-10-04 16:48:02,702 - BaseClass -INFO - password set
+2020-10-04 16:48:03,055 - BaseClass -INFO - Login click
+2020-10-04 16:48:08,068 - BaseClass -INFO - Thread started
+2020-10-04 16:48:08,123 - BaseClass -INFO - Usename set
+2020-10-04 16:48:08,174 - BaseClass -INFO - password set
+2020-10-04 16:48:08,693 - BaseClass -INFO - Login click
+2020-10-04 16:48:12,965 - BaseClass -INFO - Thread started
+2020-10-04 16:48:13,026 - BaseClass -INFO - Usename set
+2020-10-04 16:48:13,080 - BaseClass -INFO - password set
+2020-10-04 16:48:14,616 - BaseClass -INFO - Login click
+2020-10-04 16:48:17,618 - BaseClass -INFO - Login passed
+2020-10-04 16:48:23,330 - BaseClass -INFO - Thread started
+2020-10-04 16:48:23,383 - BaseClass -INFO - Usename set
+2020-10-04 16:48:23,434 - BaseClass -INFO - password set
+2020-10-04 16:48:23,802 - BaseClass -INFO - Login click
+2020-10-04 16:48:28,144 - BaseClass -INFO - Thread started
+2020-10-04 16:48:28,203 - BaseClass -INFO - Usename set
+2020-10-04 16:48:28,258 - BaseClass -INFO - password set
+2020-10-04 16:48:28,622 - BaseClass -INFO - Login click
+2020-10-04 16:48:33,692 - BaseClass -INFO - Thread started
+2020-10-04 16:48:33,757 - BaseClass -INFO - Usename set
+2020-10-04 16:48:33,808 - BaseClass -INFO - password set
+2020-10-04 16:48:36,145 - BaseClass -INFO - Login click
+2020-10-04 16:48:39,148 - BaseClass -INFO - Login passed
+2020-10-04 16:48:44,865 - BaseClass -INFO - Thread started
+2020-10-04 16:48:44,927 - BaseClass -INFO - Usename set
+2020-10-04 16:48:44,982 - BaseClass -INFO - password set
+2020-10-04 16:48:46,214 - BaseClass -INFO - Login click
+2020-10-04 16:48:49,216 - BaseClass -INFO - Login passed
+2020-10-04 16:48:55,120 - BaseClass -INFO - Thread started
+2020-10-04 16:48:55,182 - BaseClass -INFO - Usename set
+2020-10-04 16:48:55,235 - BaseClass -INFO - password set
+2020-10-04 16:48:57,089 - BaseClass -INFO - Login click
+2020-10-04 16:49:00,094 - BaseClass -INFO - Login passed
+2020-10-04 16:49:06,176 - BaseClass -INFO - Thread started
+2020-10-04 16:49:06,234 - BaseClass -INFO - Usename set
+2020-10-04 16:49:06,289 - BaseClass -INFO - password set
+2020-10-04 16:49:06,627 - BaseClass -INFO - Login click
+2020-10-04 16:49:11,630 - BaseClass -INFO - Thread started
+2020-10-04 16:49:11,711 - BaseClass -INFO - Usename set
+2020-10-04 16:49:11,765 - BaseClass -INFO - password set
+2020-10-04 16:49:12,325 - BaseClass -INFO - Login click
+2020-10-04 16:49:16,687 - BaseClass -INFO - Thread started
+2020-10-04 16:49:16,745 - BaseClass -INFO - Usename set
+2020-10-04 16:49:16,802 - BaseClass -INFO - password set
+2020-10-04 16:49:18,493 - BaseClass -INFO - Login click
+2020-10-04 16:49:21,495 - BaseClass -INFO - Login passed
+2020-10-26 15:32:19,324 - BaseClass -INFO - Chrome Open
+2020-10-26 15:32:22,145 - BaseClass -INFO - Base URL Open
+2020-10-26 15:32:22,260 - BaseClass -INFO - driver init
+2020-10-26 15:32:22,356 - BaseClass -INFO - username pass
+2020-10-26 15:32:22,435 - BaseClass -INFO - password pass
+2020-10-26 15:32:23,919 - BaseClass -INFO - login click
+2020-10-26 15:34:19,993 - BaseClass -INFO - Chrome Open
+2020-10-26 15:34:22,840 - BaseClass -INFO - Base URL Open
+2020-10-26 15:34:22,857 - BaseClass -INFO - driver init
+2020-10-26 15:34:22,927 - BaseClass -INFO - username pass
+2020-10-26 15:34:22,981 - BaseClass -INFO - password pass
+2020-10-26 15:34:24,116 - BaseClass -INFO - login click
+2020-10-26 16:03:17,654 - BaseClass -INFO - Chrome Open
+2020-10-26 16:03:20,523 - BaseClass -INFO - driver init
+2020-10-26 16:03:20,590 - BaseClass -INFO - username pass
+2020-10-26 16:03:20,644 - BaseClass -INFO - password pass
+2020-10-26 16:03:22,218 - BaseClass -INFO - login click
+2020-10-26 16:04:36,474 - BaseClass -INFO - Chrome Open
+2020-10-26 16:04:39,491 - BaseClass -INFO - driver init
+2020-10-26 16:04:39,562 - BaseClass -INFO - username pass
+2020-10-26 16:04:39,617 - BaseClass -INFO - password pass
+2020-10-26 16:04:40,908 - BaseClass -INFO - login click
+2020-10-26 16:06:29,189 - BaseClass -INFO - Chrome Open
+2020-10-26 16:06:31,852 - BaseClass -INFO - driver init
+2020-10-26 16:06:31,921 - BaseClass -INFO - username pass
+2020-10-26 16:06:31,975 - BaseClass -INFO - password pass
+2020-10-26 16:06:33,067 - BaseClass -INFO - login click
+2020-10-26 16:06:37,730 - BaseClass -INFO - New cx
+2020-10-26 16:06:37,790 - BaseClass -INFO - cx name fils
+2020-10-26 16:06:37,840 - BaseClass -INFO - Gender fils
+2020-10-26 16:06:41,984 - BaseClass -INFO - DOD fils
+2020-10-26 16:07:32,464 - BaseClass -INFO - Chrome Open
+2020-10-26 16:07:35,001 - BaseClass -INFO - driver init
+2020-10-26 16:07:35,094 - BaseClass -INFO - username pass
+2020-10-26 16:07:35,154 - BaseClass -INFO - password pass
+2020-10-26 16:07:36,464 - BaseClass -INFO - login click
+2020-10-26 16:07:41,213 - BaseClass -INFO - New cx
+2020-10-26 16:07:41,278 - BaseClass -INFO - cx name fils
+2020-10-26 16:07:41,322 - BaseClass -INFO - Gender fils
+2020-10-26 16:07:45,472 - BaseClass -INFO - DOD fils
+2020-10-26 16:16:15,766 - BaseClass -INFO - Chrome Open
+2020-10-26 16:16:18,638 - BaseClass -INFO - driver init
+2020-10-26 16:16:18,711 - BaseClass -INFO - username pass
+2020-10-26 16:16:18,765 - BaseClass -INFO - password pass
+2020-10-26 16:16:20,196 - BaseClass -INFO - login click
+2020-10-26 16:16:25,172 - BaseClass -INFO - New cx
+2020-10-26 16:16:25,255 - BaseClass -INFO - cx name fils
+2020-10-26 16:16:25,299 - BaseClass -INFO - Gender fils
+2020-10-26 16:16:29,493 - BaseClass -INFO - DOD fils
+2020-10-26 16:20:14,049 - BaseClass -INFO - Chrome Open
+2020-10-26 16:20:16,821 - BaseClass -INFO - driver init
+2020-10-26 16:20:16,890 - BaseClass -INFO - username pass
+2020-10-26 16:20:16,943 - BaseClass -INFO - password pass
+2020-10-26 16:20:18,108 - BaseClass -INFO - login click
+2020-10-26 16:20:22,933 - BaseClass -INFO - New cx
+2020-10-26 16:20:23,004 - BaseClass -INFO - cx name fils
+2020-10-26 16:20:23,050 - BaseClass -INFO - Gender fils
+2020-10-26 16:20:23,153 - BaseClass -INFO - DOD fils
+2020-10-26 16:20:23,222 - BaseClass -INFO - cx adress fils
+2020-10-26 16:20:23,280 - BaseClass -INFO - cx city fils
+2020-10-26 16:20:23,330 - BaseClass -INFO - cx state fils
+2020-10-26 16:20:23,364 - BaseClass -INFO - cx name fils
+2020-10-26 16:20:23,418 - BaseClass -INFO - cx pin fils
+2020-10-26 16:20:23,474 - BaseClass -INFO - cx Mobile fils
+2020-10-26 16:20:23,616 - BaseClass -INFO - cx passw fils
+2020-10-26 16:20:23,658 - BaseClass -INFO - from submit
+2020-10-26 16:20:26,658 - BaseClass -INFO - validation started....
+2020-10-26 16:21:03,034 - BaseClass -INFO - Chrome Open
+2020-10-26 16:21:05,757 - BaseClass -INFO - driver init
+2020-10-26 16:21:05,823 - BaseClass -INFO - username pass
+2020-10-26 16:21:05,878 - BaseClass -INFO - password pass
+2020-10-26 16:21:07,291 - BaseClass -INFO - login click
+2020-10-26 16:21:12,125 - BaseClass -INFO - New cx
+2020-10-26 16:21:12,201 - BaseClass -INFO - cx name fils
+2020-10-26 16:21:12,254 - BaseClass -INFO - Gender fils
+2020-10-26 16:21:12,361 - BaseClass -INFO - DOD fils
+2020-10-26 16:21:12,451 - BaseClass -INFO - cx adress fils
+2020-10-26 16:21:12,506 - BaseClass -INFO - cx city fils
+2020-10-26 16:21:12,565 - BaseClass -INFO - cx state fils
+2020-10-26 16:21:12,602 - BaseClass -INFO - cx name fils
+2020-10-26 16:21:12,653 - BaseClass -INFO - cx pin fils
+2020-10-26 16:21:12,725 - BaseClass -INFO - cx Mobile fils
+2020-10-26 16:21:12,851 - BaseClass -INFO - cx passw fils
+2020-10-26 16:21:14,139 - BaseClass -INFO - from submit
+2020-10-26 16:21:17,140 - BaseClass -INFO - validation started....
+2020-10-26 16:21:17,222 - BaseClass -INFO - test case passed....
+2020-10-26 16:24:02,541 - BaseClass -INFO - Chrome Open
+2020-10-26 16:24:06,385 - BaseClass -INFO - Thread started
+2020-10-26 16:24:06,551 - BaseClass -INFO - Usename set
+2020-10-26 16:24:06,614 - BaseClass -INFO - password set
+2020-10-26 16:24:07,588 - BaseClass -INFO - Login click
+2020-10-26 16:24:12,533 - BaseClass -INFO - Thread started
+2020-10-26 16:24:12,595 - BaseClass -INFO - Usename set
+2020-10-26 16:24:12,658 - BaseClass -INFO - password set
+2020-10-26 16:24:13,066 - BaseClass -INFO - Login click
+2020-10-26 16:24:17,597 - BaseClass -INFO - Thread started
+2020-10-26 16:24:17,659 - BaseClass -INFO - Usename set
+2020-10-26 16:24:17,706 - BaseClass -INFO - password set
+2020-10-26 16:24:18,077 - BaseClass -INFO - Login click
+2020-10-26 16:24:22,537 - BaseClass -INFO - Thread started
+2020-10-26 16:24:22,619 - BaseClass -INFO - Usename set
+2020-10-26 16:24:22,673 - BaseClass -INFO - password set
+2020-10-26 16:24:23,035 - BaseClass -INFO - Login click
+2020-10-26 16:24:27,577 - BaseClass -INFO - Thread started
+2020-10-26 16:24:27,641 - BaseClass -INFO - Usename set
+2020-10-26 16:24:27,687 - BaseClass -INFO - password set
+2020-10-26 16:24:28,257 - BaseClass -INFO - Login click
+2020-10-26 16:24:32,660 - BaseClass -INFO - Thread started
+2020-10-26 16:24:32,725 - BaseClass -INFO - Usename set
+2020-10-26 16:24:32,805 - BaseClass -INFO - password set
+2020-10-26 16:24:33,190 - BaseClass -INFO - Login click
+2020-10-26 16:24:37,582 - BaseClass -INFO - Thread started
+2020-10-26 16:24:37,658 - BaseClass -INFO - Usename set
+2020-10-26 16:24:37,707 - BaseClass -INFO - password set
+2020-10-26 16:24:39,379 - BaseClass -INFO - Login click
+2020-10-26 16:24:42,478 - BaseClass -INFO - Login passed
+2020-10-26 16:24:48,604 - BaseClass -INFO - Thread started
+2020-10-26 16:24:48,678 - BaseClass -INFO - Usename set
+2020-10-26 16:24:48,729 - BaseClass -INFO - password set
+2020-10-26 16:24:49,130 - BaseClass -INFO - Login click
+2020-10-26 16:24:53,551 - BaseClass -INFO - Thread started
+2020-10-26 16:24:53,627 - BaseClass -INFO - Usename set
+2020-10-26 16:24:53,682 - BaseClass -INFO - password set
+2020-10-26 16:24:54,048 - BaseClass -INFO - Login click
+2020-10-26 16:24:58,437 - BaseClass -INFO - Thread started
+2020-10-26 16:24:58,499 - BaseClass -INFO - Usename set
+2020-10-26 16:24:58,550 - BaseClass -INFO - password set
+2020-10-26 16:24:59,765 - BaseClass -INFO - Login click
+2020-10-26 16:25:02,772 - BaseClass -INFO - Login passed
+2020-10-26 16:25:08,764 - BaseClass -INFO - Thread started
+2020-10-26 16:25:08,858 - BaseClass -INFO - Usename set
+2020-10-26 16:25:08,908 - BaseClass -INFO - password set
+2020-10-26 16:25:09,258 - BaseClass -INFO - Login click
+2020-10-26 16:25:13,914 - BaseClass -INFO - Thread started
+2020-10-26 16:25:14,018 - BaseClass -INFO - Usename set
+2020-10-26 16:25:14,081 - BaseClass -INFO - password set
+2020-10-26 16:25:15,642 - BaseClass -INFO - Login click
+2020-10-26 16:25:18,650 - BaseClass -INFO - Login passed
+2020-10-26 16:26:43,531 - BaseClass -INFO - Chrome Open
+2020-10-26 16:26:47,345 - BaseClass -INFO - Thread started
+2020-10-26 16:26:47,457 - BaseClass -INFO - Usename set
+2020-10-26 16:26:47,517 - BaseClass -INFO - password set
+2020-10-26 16:26:47,942 - BaseClass -INFO - Login click
+2020-10-26 16:26:52,425 - BaseClass -INFO - Thread started
+2020-10-26 16:26:52,479 - BaseClass -INFO - Usename set
+2020-10-26 16:26:52,525 - BaseClass -INFO - password set
+2020-10-26 16:26:53,032 - BaseClass -INFO - Login click
+2020-10-26 16:26:57,420 - BaseClass -INFO - Thread started
+2020-10-26 16:26:57,477 - BaseClass -INFO - Usename set
+2020-10-26 16:26:57,530 - BaseClass -INFO - password set
+2020-10-26 16:26:57,913 - BaseClass -INFO - Login click
+2020-10-26 16:27:02,351 - BaseClass -INFO - Thread started
+2020-10-26 16:27:02,414 - BaseClass -INFO - Usename set
+2020-10-26 16:27:02,464 - BaseClass -INFO - password set
+2020-10-26 16:27:02,891 - BaseClass -INFO - Login click
+2020-10-26 16:27:07,533 - BaseClass -INFO - Thread started
+2020-10-26 16:27:07,622 - BaseClass -INFO - Usename set
+2020-10-26 16:27:07,672 - BaseClass -INFO - password set
+2020-10-26 16:27:08,079 - BaseClass -INFO - Login click
+2020-10-26 16:27:12,407 - BaseClass -INFO - Thread started
+2020-10-26 16:27:12,496 - BaseClass -INFO - Usename set
+2020-10-26 16:27:12,568 - BaseClass -INFO - password set
+2020-10-26 16:27:13,126 - BaseClass -INFO - Login click
+2020-10-26 16:27:17,579 - BaseClass -INFO - Thread started
+2020-10-26 16:27:17,662 - BaseClass -INFO - Usename set
+2020-10-26 16:27:17,716 - BaseClass -INFO - password set
+2020-10-26 16:27:19,120 - BaseClass -INFO - Login click
+2020-10-26 16:27:22,187 - BaseClass -INFO - Login passed
+2020-10-26 16:27:27,740 - BaseClass -INFO - Thread started
+2020-10-26 16:27:27,807 - BaseClass -INFO - Usename set
+2020-10-26 16:27:27,858 - BaseClass -INFO - password set
+2020-10-26 16:27:28,205 - BaseClass -INFO - Login click
+2020-10-26 16:27:33,363 - BaseClass -INFO - Thread started
+2020-10-26 16:27:33,434 - BaseClass -INFO - Usename set
+2020-10-26 16:27:33,489 - BaseClass -INFO - password set
+2020-10-26 16:27:34,000 - BaseClass -INFO - Login click
+2020-10-26 16:27:38,594 - BaseClass -INFO - Thread started
+2020-10-26 16:27:38,690 - BaseClass -INFO - Usename set
+2020-10-26 16:27:38,740 - BaseClass -INFO - password set
+2020-10-26 16:27:40,200 - BaseClass -INFO - Login click
+2020-10-26 16:27:43,208 - BaseClass -INFO - Login passed
+2020-10-26 16:27:49,054 - BaseClass -INFO - Thread started
+2020-10-26 16:27:49,180 - BaseClass -INFO - Usename set
+2020-10-26 16:27:49,235 - BaseClass -INFO - password set
+2020-10-26 16:27:49,643 - BaseClass -INFO - Login click
+2020-10-26 16:27:54,710 - BaseClass -INFO - Thread started
+2020-10-26 16:27:54,766 - BaseClass -INFO - Usename set
+2020-10-26 16:27:54,824 - BaseClass -INFO - password set
+2020-10-26 16:27:56,607 - BaseClass -INFO - Login click
+2020-10-26 16:27:59,613 - BaseClass -INFO - Login passed
+2020-10-26 16:28:05,293 - BaseClass -INFO - driver init
+2020-10-26 16:28:05,365 - BaseClass -INFO - username pass
+2020-10-26 16:28:05,418 - BaseClass -INFO - password pass
+2020-10-26 16:28:06,771 - BaseClass -INFO - login click
+2020-10-26 16:28:11,851 - BaseClass -INFO - New cx
+2020-10-26 16:28:11,930 - BaseClass -INFO - cx name fils
+2020-10-26 16:28:11,973 - BaseClass -INFO - Gender fils
+2020-10-26 16:28:12,073 - BaseClass -INFO - DOD fils
+2020-10-26 16:28:12,152 - BaseClass -INFO - cx adress fils
+2020-10-26 16:28:12,203 - BaseClass -INFO - cx city fils
+2020-10-26 16:28:12,253 - BaseClass -INFO - cx state fils
+2020-10-26 16:28:12,294 - BaseClass -INFO - cx name fils
+2020-10-26 16:28:12,348 - BaseClass -INFO - cx pin fils
+2020-10-26 16:28:12,408 - BaseClass -INFO - cx Mobile fils
+2020-10-26 16:28:12,532 - BaseClass -INFO - cx passw fils
+2020-10-26 16:29:21,249 - BaseClass -INFO - from submit
+2020-10-26 16:29:24,250 - BaseClass -INFO - validation started....
+2020-10-26 16:29:42,988 - BaseClass -INFO - test case failed....
+2020-10-26 16:37:31,191 - BaseClass -INFO - Chrome Open
+2020-10-26 16:38:34,017 - BaseClass -INFO - Chrome Open
+2020-10-26 16:39:53,986 - BaseClass -INFO - Chrome Open
+2020-10-26 17:58:54,533 - BaseClass -INFO - Chrome Open
+2020-10-26 17:58:57,349 - BaseClass -INFO - Base URL Open
+2020-10-26 17:58:58,960 - BaseClass -INFO - driver init
+2020-10-26 17:58:59,110 - BaseClass -INFO - username pass
+2020-10-26 17:58:59,175 - BaseClass -INFO - password pass
+2020-10-26 17:59:01,188 - BaseClass -INFO - login click
+2020-10-26 17:59:02,847 - BaseClass -INFO - Thread started
+2020-10-26 17:59:02,887 - BaseClass -INFO - Thread started
+2020-10-26 17:59:02,906 - BaseClass -INFO - Thread started
+2020-10-26 17:59:02,928 - BaseClass -INFO - Thread started
+2020-10-26 17:59:02,945 - BaseClass -INFO - driver init
+2020-10-26 18:00:35,951 - BaseClass -INFO - Chrome Open
+2020-10-26 18:00:38,518 - BaseClass -INFO - Base URL Open
+2020-10-26 18:00:39,805 - BaseClass -INFO - driver init
+2020-10-26 18:00:39,882 - BaseClass -INFO - username pass
+2020-10-26 18:00:39,935 - BaseClass -INFO - password pass
+2020-10-26 18:00:41,086 - BaseClass -INFO - login click
+2020-10-26 18:00:41,997 - BaseClass -INFO - Thread started
+2020-10-26 18:00:42,020 - BaseClass -INFO - Thread started
+2020-10-26 18:00:42,031 - BaseClass -INFO - Thread started
+2020-10-26 18:00:42,046 - BaseClass -INFO - Thread started
+2020-10-26 18:00:42,069 - BaseClass -INFO - driver init
+2020-10-26 18:13:12,012 - BaseClass -INFO - Chrome Open
+2020-10-26 18:13:15,325 - BaseClass -INFO - Base URL Open
+2020-10-26 18:13:16,673 - BaseClass -INFO - driver init
+2020-10-26 18:13:16,742 - BaseClass -INFO - username pass
+2020-10-26 18:13:16,795 - BaseClass -INFO - password pass
+2020-10-26 18:13:18,285 - BaseClass -INFO - login click
+2020-10-26 18:13:19,229 - BaseClass -INFO - Thread started
+2020-10-26 18:13:19,310 - BaseClass -INFO - Thread started
+2020-10-26 18:13:19,338 - BaseClass -INFO - Thread started
+2020-10-26 18:13:19,371 - BaseClass -INFO - Thread started
+2020-10-26 18:13:19,399 - BaseClass -INFO - driver init
+2020-10-26 18:13:40,307 - BaseClass -INFO - Chrome Open
+2020-10-26 18:13:43,452 - BaseClass -INFO - Thread started
+2020-10-26 18:13:43,550 - BaseClass -INFO - Usename set
+2020-10-26 18:13:43,602 - BaseClass -INFO - password set
+2020-10-26 18:13:43,947 - BaseClass -INFO - Login click
+2020-10-26 18:13:48,610 - BaseClass -INFO - Thread started
+2020-10-26 18:13:48,662 - BaseClass -INFO - Usename set
+2020-10-26 18:13:48,712 - BaseClass -INFO - password set
+2020-10-26 18:13:50,068 - BaseClass -INFO - Login click
+2020-10-26 18:13:53,189 - BaseClass -INFO - Login passed
+2020-10-26 18:13:57,234 - BaseClass -INFO - Thread started
+2020-10-26 18:13:57,252 - BaseClass -INFO - Thread started
+2020-10-26 18:13:57,275 - BaseClass -INFO - driver init
+2020-10-26 18:16:49,845 - BaseClass -INFO - Chrome Open
+2020-10-26 18:16:52,451 - BaseClass -INFO - Base URL Open
+2020-10-26 18:16:53,781 - BaseClass -INFO - driver init
+2020-10-26 18:16:53,849 - BaseClass -INFO - username pass
+2020-10-26 18:16:53,903 - BaseClass -INFO - password pass
+2020-10-26 18:16:55,415 - BaseClass -INFO - login click
+2020-10-26 18:16:56,306 - BaseClass -INFO - Thread started
+2020-10-26 18:16:56,330 - BaseClass -INFO - Thread started
+2020-10-26 18:16:56,348 - BaseClass -INFO - Thread started
+2020-10-26 18:16:56,366 - BaseClass -INFO - Thread started
+2020-10-26 18:16:56,381 - BaseClass -INFO - driver init
+2020-10-26 18:17:42,106 - BaseClass -INFO - Chrome Open
+2020-10-26 18:17:44,434 - BaseClass -INFO - Base URL Open
+2020-10-26 18:17:45,953 - BaseClass -INFO - driver init
+2020-10-26 18:17:46,070 - BaseClass -INFO - username pass
+2020-10-26 18:17:46,134 - BaseClass -INFO - password pass
+2020-10-26 18:17:47,585 - BaseClass -INFO - login click
+2020-10-26 18:17:48,531 - BaseClass -INFO - Thread started
+2020-10-26 18:17:48,563 - BaseClass -INFO - Thread started
+2020-10-26 18:17:48,586 - BaseClass -INFO - Thread started
+2020-10-26 18:17:48,598 - BaseClass -INFO - Thread started
+2020-10-26 18:17:48,617 - BaseClass -INFO - driver init
+2020-10-26 18:17:49,226 - BaseClass -INFO - execution completed
+2020-10-26 18:18:38,009 - BaseClass -INFO - Chrome Open
+2020-10-26 18:18:40,783 - BaseClass -INFO - Base URL Open
+2020-10-26 18:18:41,988 - BaseClass -INFO - driver init
+2020-10-26 18:18:42,057 - BaseClass -INFO - username pass
+2020-10-26 18:18:42,110 - BaseClass -INFO - password pass
+2020-10-26 18:18:43,567 - BaseClass -INFO - login click
+2020-10-26 18:18:44,458 - BaseClass -INFO - Thread started
+2020-10-26 18:18:44,487 - BaseClass -INFO - Thread started
+2020-10-26 18:18:44,501 - BaseClass -INFO - Thread started
+2020-10-26 18:18:44,519 - BaseClass -INFO - Thread started
+2020-10-26 18:18:44,534 - BaseClass -INFO - driver init
+2020-10-26 18:18:45,154 - BaseClass -INFO - execution completed
+2020-10-26 18:20:50,061 - BaseClass -INFO - Chrome Open
+2020-10-26 18:20:52,628 - BaseClass -INFO - Base URL Open
+2020-10-26 18:20:54,702 - BaseClass -INFO - driver init
+2020-10-26 18:20:54,770 - BaseClass -INFO - username pass
+2020-10-26 18:20:54,824 - BaseClass -INFO - password pass
+2020-10-26 18:20:56,140 - BaseClass -INFO - login click
+2020-10-26 18:20:56,146 - BaseClass -INFO - Login test PASS
+2020-10-26 18:20:56,906 - BaseClass -INFO - Thread started
+2020-10-26 18:20:56,939 - BaseClass -INFO - Thread started
+2020-10-26 18:20:56,953 - BaseClass -INFO - Thread started
+2020-10-26 18:20:56,970 - BaseClass -INFO - Thread started
+2020-10-26 18:20:56,985 - BaseClass -INFO - driver init
+2020-10-26 18:20:57,599 - BaseClass -INFO - execution completed
+2020-10-26 18:31:49,711 - BaseClass -INFO - Chrome Open
+2020-10-26 18:31:52,546 - BaseClass -INFO - Base URL Open
+2020-10-26 18:31:53,884 - BaseClass -INFO - driver init
+2020-10-26 18:31:53,956 - BaseClass -INFO - username pass
+2020-10-26 18:31:54,014 - BaseClass -INFO - password pass
+2020-10-26 18:31:55,682 - BaseClass -INFO - login click
+2020-10-26 18:31:55,704 - BaseClass -INFO - Login test PASS
+2020-10-26 18:31:56,363 - BaseClass -INFO - Thread started
+2020-10-26 18:31:56,395 - BaseClass -INFO - Thread started
+2020-10-26 18:31:56,411 - BaseClass -INFO - Thread started
+2020-10-26 18:31:56,424 - BaseClass -INFO - Thread started
+2020-10-26 18:31:56,440 - BaseClass -INFO - driver init
+2020-10-26 18:31:57,059 - BaseClass -INFO - execution completed
+2020-10-26 18:35:55,245 - BaseClass -INFO - Chrome Open
+2020-10-26 18:35:57,686 - BaseClass -INFO - Base URL Open
+2020-10-26 18:35:58,779 - BaseClass -INFO - driver init
+2020-10-26 18:35:58,845 - BaseClass -INFO - username pass
+2020-10-26 18:35:58,900 - BaseClass -INFO - password pass
+2020-10-26 18:36:00,221 - BaseClass -INFO - login click
+2020-10-26 18:36:00,244 - BaseClass -INFO - Login test PASS
+2020-10-26 18:36:00,860 - BaseClass -INFO - Thread started
+2020-10-26 18:36:00,899 - BaseClass -INFO - Thread started
+2020-10-26 18:36:00,914 - BaseClass -INFO - Thread started
+2020-10-26 18:36:00,928 - BaseClass -INFO - Thread started
+2020-10-26 18:36:00,955 - BaseClass -INFO - driver init
+2020-10-26 18:36:01,588 - BaseClass -INFO - execution completed
+2020-10-26 18:36:42,832 - BaseClass -INFO - Chrome Open
+2020-10-26 18:36:45,651 - BaseClass -INFO - Base URL Open
+2020-10-26 18:36:47,012 - BaseClass -INFO - driver init
+2020-10-26 18:36:47,110 - BaseClass -INFO - username pass
+2020-10-26 18:36:47,167 - BaseClass -INFO - password pass
+2020-10-26 18:36:48,641 - BaseClass -INFO - login click
+2020-10-26 18:36:48,669 - BaseClass -INFO - Login test PASS
+2020-10-26 18:36:48,698 - BaseClass -INFO - driver init
+2020-10-26 18:36:49,411 - BaseClass -INFO - Thread started
+2020-10-26 18:36:49,433 - BaseClass -INFO - Thread started
+2020-10-26 18:36:49,450 - BaseClass -INFO - Thread started
+2020-10-26 18:36:49,475 - BaseClass -INFO - Thread started
+2020-10-26 18:36:50,106 - BaseClass -INFO - execution completed
+2020-10-26 18:39:55,148 - BaseClass -INFO - Chrome Open
+2020-10-26 18:39:57,772 - BaseClass -INFO - Base URL Open
+2020-10-26 18:39:59,135 - BaseClass -INFO - driver init
+2020-10-26 18:39:59,228 - BaseClass -INFO - username pass
+2020-10-26 18:39:59,283 - BaseClass -INFO - password pass
+2020-10-26 18:40:00,993 - BaseClass -INFO - login click
+2020-10-26 18:40:01,013 - BaseClass -INFO - Login test PASS
+2020-10-26 18:40:01,044 - BaseClass -INFO - driver init
+2020-10-26 18:40:01,668 - BaseClass -INFO - Thread started
+2020-10-26 18:40:01,684 - BaseClass -INFO - Thread started
+2020-10-26 18:40:01,700 - BaseClass -INFO - Thread started
+2020-10-26 18:40:01,713 - BaseClass -INFO - Thread started
+2020-10-26 18:40:02,338 - BaseClass -INFO - execution completed
+2020-10-26 18:43:02,548 - BaseClass -INFO - Chrome Open
+2020-10-26 18:43:05,176 - BaseClass -INFO - Base URL Open
+2020-10-26 18:43:06,540 - BaseClass -INFO - driver init
+2020-10-26 18:43:06,607 - BaseClass -INFO - username pass
+2020-10-26 18:43:06,661 - BaseClass -INFO - password pass
+2020-10-26 18:43:07,972 - BaseClass -INFO - login click
+2020-10-26 18:43:07,996 - BaseClass -INFO - Login test PASS
+2020-10-26 18:43:08,034 - BaseClass -INFO - driver init
+2020-10-26 18:43:09,325 - BaseClass -INFO - execution completed
+2020-10-26 18:43:32,803 - BaseClass -INFO - Chrome Open
+2020-10-26 18:43:35,424 - BaseClass -INFO - Base URL Open
+2020-10-26 18:43:36,769 - BaseClass -INFO - driver init
+2020-10-26 18:43:36,839 - BaseClass -INFO - username pass
+2020-10-26 18:43:36,894 - BaseClass -INFO - password pass
+2020-10-26 18:43:38,265 - BaseClass -INFO - login click
+2020-10-26 18:43:38,272 - BaseClass -INFO - Login test PASS
+2020-10-26 18:43:39,684 - BaseClass -INFO - execution completed
+2020-10-26 18:44:30,532 - BaseClass -INFO - Chrome Open
+2020-10-26 18:44:33,282 - BaseClass -INFO - Base URL Open
+2020-10-26 18:44:33,325 - BaseClass -INFO - driver init
+2020-10-26 18:44:33,394 - BaseClass -INFO - username pass
+2020-10-26 18:44:33,448 - BaseClass -INFO - password pass
+2020-10-26 18:44:34,600 - BaseClass -INFO - login click
+2020-10-26 18:44:39,388 - BaseClass -INFO - New cx
+2020-10-26 18:44:39,452 - BaseClass -INFO - cx name fils
+2020-10-26 18:44:39,507 - BaseClass -INFO - Gender fils
+2020-10-26 18:44:39,636 - BaseClass -INFO - DOD fils
+2020-10-26 18:44:39,743 - BaseClass -INFO - cx adress fils
+2020-10-26 18:44:39,803 - BaseClass -INFO - cx city fils
+2020-10-26 18:44:39,865 - BaseClass -INFO - cx state fils
+2020-10-26 18:44:39,915 - BaseClass -INFO - cx name fils
+2020-10-26 18:44:39,989 - BaseClass -INFO - cx pin fils
+2020-10-26 18:44:40,065 - BaseClass -INFO - cx Mobile fils
+2020-10-26 18:44:40,241 - BaseClass -INFO - cx passw fils
+2020-10-26 18:44:41,646 - BaseClass -INFO - from submit
+2020-10-26 18:44:44,648 - BaseClass -INFO - validation started....
+2020-10-26 18:44:44,691 - BaseClass -INFO - test case passed....
+2020-10-26 18:44:46,678 - BaseClass -INFO - driver init
+2020-10-26 18:44:46,744 - BaseClass -INFO - username pass
+2020-10-26 18:44:46,794 - BaseClass -INFO - password pass
+2020-10-26 18:44:48,030 - BaseClass -INFO - login click
+2020-10-26 18:44:48,037 - BaseClass -INFO - Login test PASS
+2020-10-26 18:44:48,698 - BaseClass -INFO - execution completed
+2020-10-26 18:47:39,900 - BaseClass -INFO - Chrome Open
+2020-10-26 18:47:42,246 - BaseClass -INFO - Base URL Open
+2020-10-26 18:47:42,289 - BaseClass -INFO - driver init
+2020-10-26 18:47:42,368 - BaseClass -INFO - username pass
+2020-10-26 18:47:42,422 - BaseClass -INFO - password pass
+2020-10-26 18:47:43,878 - BaseClass -INFO - login click
+2020-10-26 18:47:48,632 - BaseClass -INFO - New cx
+2020-10-26 18:47:48,695 - BaseClass -INFO - cx name fils
+2020-10-26 18:47:48,739 - BaseClass -INFO - Gender fils
+2020-10-26 18:47:48,841 - BaseClass -INFO - DOD fils
+2020-10-26 18:47:48,927 - BaseClass -INFO - cx adress fils
+2020-10-26 18:47:48,978 - BaseClass -INFO - cx city fils
+2020-10-26 18:47:49,031 - BaseClass -INFO - cx state fils
+2020-10-26 18:47:49,074 - BaseClass -INFO - cx name fils
+2020-10-26 18:47:49,142 - BaseClass -INFO - cx pin fils
+2020-10-26 18:47:49,196 - BaseClass -INFO - cx Mobile fils
+2020-10-26 18:47:49,326 - BaseClass -INFO - cx passw fils
+2020-10-26 18:47:51,274 - BaseClass -INFO - from submit
+2020-10-26 18:47:54,276 - BaseClass -INFO - validation started....
+2020-10-26 18:47:54,340 - BaseClass -INFO - test case passed....
+2020-10-26 18:47:56,617 - BaseClass -INFO - driver init
+2020-10-26 18:47:56,709 - BaseClass -INFO - username pass
+2020-10-26 18:47:56,765 - BaseClass -INFO - password pass
+2020-10-26 18:47:58,001 - BaseClass -INFO - login click
+2020-10-26 18:47:58,005 - BaseClass -INFO - Login test PASS
+2020-10-26 18:47:58,661 - BaseClass -INFO - execution completed
+2020-10-26 18:49:11,134 - BaseClass -INFO - Chrome Open
+2020-10-26 18:49:14,021 - BaseClass -INFO - Base URL Open
+2020-10-26 18:49:14,065 - BaseClass -INFO - driver init
+2020-10-26 18:49:14,135 - BaseClass -INFO - username pass
+2020-10-26 18:49:14,185 - BaseClass -INFO - password pass
+2020-10-26 18:49:15,420 - BaseClass -INFO - login click
+2020-10-26 18:49:20,408 - BaseClass -INFO - New cx
+2020-10-26 18:49:20,470 - BaseClass -INFO - cx name fils
+2020-10-26 18:49:20,516 - BaseClass -INFO - Gender fils
+2020-10-26 18:49:20,620 - BaseClass -INFO - DOD fils
+2020-10-26 18:49:20,694 - BaseClass -INFO - cx adress fils
+2020-10-26 18:49:20,766 - BaseClass -INFO - cx city fils
+2020-10-26 18:49:20,820 - BaseClass -INFO - cx state fils
+2020-10-26 18:49:20,859 - BaseClass -INFO - cx name fils
+2020-10-26 18:49:20,950 - BaseClass -INFO - cx pin fils
+2020-10-26 18:49:21,024 - BaseClass -INFO - cx Mobile fils
+2020-10-26 18:49:21,156 - BaseClass -INFO - cx passw fils
+2020-10-26 18:49:23,008 - BaseClass -INFO - from submit
+2020-10-26 18:49:26,009 - BaseClass -INFO - validation started....
+2020-10-26 18:49:26,087 - BaseClass -INFO - test case passed....
+2020-10-26 18:49:28,040 - BaseClass -INFO - driver init
+2020-10-26 18:49:28,160 - BaseClass -INFO - username pass
+2020-10-26 18:49:28,219 - BaseClass -INFO - password pass
+2020-10-26 18:49:29,486 - BaseClass -INFO - login click
+2020-10-26 18:49:29,490 - BaseClass -INFO - Login test PASS
+2020-10-26 18:49:30,110 - BaseClass -INFO - execution completed
+2020-10-26 18:52:49,448 - BaseClass -INFO - Chrome Open
+2020-10-26 18:52:52,212 - BaseClass -INFO - Base URL Open
+2020-10-26 18:52:52,260 - BaseClass -INFO - driver init
+2020-10-26 18:52:52,347 - BaseClass -INFO - username pass
+2020-10-26 18:52:52,401 - BaseClass -INFO - password pass
+2020-10-26 18:52:53,730 - BaseClass -INFO - login click
+2020-10-26 18:52:58,521 - BaseClass -INFO - New cx
+2020-10-26 18:52:58,606 - BaseClass -INFO - cx name fils
+2020-10-26 18:52:58,655 - BaseClass -INFO - Gender fils
+2020-10-26 18:52:58,756 - BaseClass -INFO - DOD fils
+2020-10-26 18:52:58,845 - BaseClass -INFO - cx adress fils
+2020-10-26 18:52:58,900 - BaseClass -INFO - cx city fils
+2020-10-26 18:52:58,949 - BaseClass -INFO - cx state fils
+2020-10-26 18:52:58,987 - BaseClass -INFO - cx name fils
+2020-10-26 18:52:59,043 - BaseClass -INFO - cx pin fils
+2020-10-26 18:52:59,108 - BaseClass -INFO - cx Mobile fils
+2020-10-26 18:52:59,232 - BaseClass -INFO - cx passw fils
+2020-10-26 18:53:01,033 - BaseClass -INFO - from submit
+2020-10-26 18:53:04,033 - BaseClass -INFO - validation started....
+2020-10-26 18:53:04,108 - BaseClass -INFO - test case passed....
+2020-10-26 18:53:47,908 - BaseClass -INFO - driver init
+2020-10-26 18:53:47,983 - BaseClass -INFO - username pass
+2020-10-26 18:53:48,037 - BaseClass -INFO - password pass
+2020-10-26 18:53:49,155 - BaseClass -INFO - login click
+2020-10-26 18:53:49,163 - BaseClass -INFO - Login test PASS
+2020-10-26 18:53:49,797 - BaseClass -INFO - execution completed
+2020-10-26 19:24:24,159 - BaseClass -INFO - Chrome Open
+2020-10-26 19:24:26,829 - BaseClass -INFO - Base URL Open
+2020-10-26 19:24:26,862 - BaseClass -INFO - driver init
+2020-10-26 19:24:26,935 - BaseClass -INFO - username pass
+2020-10-26 19:24:26,989 - BaseClass -INFO - password pass
+2020-10-26 19:24:28,325 - BaseClass -INFO - login click
+2020-10-26 19:24:33,288 - BaseClass -INFO - New cx
+2020-10-26 19:24:33,357 - BaseClass -INFO - cx name fils
+2020-10-26 19:24:33,409 - BaseClass -INFO - Gender fils
+2020-10-26 19:24:33,511 - BaseClass -INFO - DOD fils
+2020-10-26 19:24:33,584 - BaseClass -INFO - cx adress fils
+2020-10-26 19:24:33,651 - BaseClass -INFO - cx city fils
+2020-10-26 19:24:33,698 - BaseClass -INFO - cx state fils
+2020-10-26 19:24:33,738 - BaseClass -INFO - cx name fils
+2020-10-26 19:24:33,796 - BaseClass -INFO - cx pin fils
+2020-10-26 19:24:33,856 - BaseClass -INFO - cx Mobile fils
+2020-10-26 19:24:33,981 - BaseClass -INFO - cx passw fils
+2020-10-26 19:24:36,394 - BaseClass -INFO - from submit
+2020-10-26 19:24:39,395 - BaseClass -INFO - validation started....
+2020-10-26 19:24:39,464 - BaseClass -INFO - test case passed....
+2020-10-26 19:24:40,117 - BaseClass -INFO - execution completed
+2020-10-26 19:24:43,368 - BaseClass -INFO - Chrome Open
+2020-10-26 19:24:45,944 - BaseClass -INFO - Base URL Open
+2020-10-26 19:24:46,698 - BaseClass -INFO - Usename set
+2020-10-26 19:24:46,751 - BaseClass -INFO - password set
+2020-10-26 19:24:47,095 - BaseClass -INFO - Login click
+2020-10-26 19:24:51,829 - BaseClass -INFO - Usename set
+2020-10-26 19:24:51,880 - BaseClass -INFO - password set
+2020-10-26 19:24:53,095 - BaseClass -INFO - Login click
+2020-10-26 19:24:56,320 - BaseClass -INFO - Login passed
+2020-10-26 19:25:00,892 - BaseClass -INFO - Usename set
+2020-10-26 19:25:00,942 - BaseClass -INFO - password set
+2020-10-26 19:25:00,983 - BaseClass -INFO - Login click
+2020-10-26 19:25:03,987 - BaseClass -INFO - Login passed
+2020-10-26 19:25:09,708 - BaseClass -INFO - Usename set
+2020-10-26 19:25:09,787 - BaseClass -INFO - password set
+2020-10-26 19:25:10,192 - BaseClass -INFO - Login click
+2020-10-26 19:25:15,406 - BaseClass -INFO - execution completed
+2020-10-26 19:25:18,654 - BaseClass -INFO - Chrome Open
+2020-10-26 19:25:21,155 - BaseClass -INFO - Base URL Open
+2020-10-26 19:25:22,361 - BaseClass -INFO - driver init
+2020-10-26 19:25:22,425 - BaseClass -INFO - username pass
+2020-10-26 19:25:22,478 - BaseClass -INFO - password pass
+2020-10-26 19:25:23,648 - BaseClass -INFO - login click
+2020-10-26 19:25:23,664 - BaseClass -INFO - Login test PASS
+2020-10-26 19:25:24,280 - BaseClass -INFO - execution completed
+2020-10-26 19:26:10,469 - BaseClass -INFO - Chrome Open
+2020-10-26 19:26:12,867 - BaseClass -INFO - Base URL Open
+2020-10-26 19:26:13,608 - BaseClass -INFO - Usename set
+2020-10-26 19:26:13,662 - BaseClass -INFO - password set
+2020-10-26 19:26:14,087 - BaseClass -INFO - Login click
+2020-10-26 19:26:18,634 - BaseClass -INFO - Usename set
+2020-10-26 19:26:18,684 - BaseClass -INFO - password set
+2020-10-26 19:26:20,141 - BaseClass -INFO - Login click
+2020-10-26 19:26:23,174 - BaseClass -INFO - Login passed
+2020-10-26 19:26:28,996 - BaseClass -INFO - Usename set
+2020-10-26 19:26:29,050 - BaseClass -INFO - password set
+2020-10-26 19:26:32,866 - BaseClass -INFO - Login click
+2020-10-26 19:26:35,872 - BaseClass -INFO - Login passed
+2020-10-26 19:26:43,052 - BaseClass -INFO - Usename set
+2020-10-26 19:26:43,105 - BaseClass -INFO - password set
+2020-10-26 19:26:43,152 - BaseClass -INFO - Login click
+2020-10-26 19:26:47,328 - BaseClass -INFO - execution completed
+2020-10-26 19:26:50,603 - BaseClass -INFO - Chrome Open
+2020-10-26 19:26:53,748 - BaseClass -INFO - Base URL Open
+2020-10-26 19:26:54,938 - BaseClass -INFO - driver init
+2020-10-26 19:26:55,009 - BaseClass -INFO - username pass
+2020-10-26 19:26:55,067 - BaseClass -INFO - password pass
+2020-10-26 19:26:56,595 - BaseClass -INFO - login click
+2020-10-26 19:26:56,602 - BaseClass -INFO - Login test PASS
+2020-10-26 19:26:57,216 - BaseClass -INFO - execution completed
+2020-10-26 19:27:00,409 - BaseClass -INFO - Chrome Open
+2020-10-26 19:27:03,399 - BaseClass -INFO - Base URL Open
+2020-10-26 19:27:03,400 - BaseClass -INFO - driver init
+2020-10-26 19:27:03,461 - BaseClass -INFO - username pass
+2020-10-26 19:27:03,516 - BaseClass -INFO - password pass
+2020-10-26 19:27:05,048 - BaseClass -INFO - login click
+2020-10-26 19:27:09,888 - BaseClass -INFO - New cx
+2020-10-26 19:27:09,966 - BaseClass -INFO - cx name fils
+2020-10-26 19:27:10,011 - BaseClass -INFO - Gender fils
+2020-10-26 19:27:10,139 - BaseClass -INFO - DOD fils
+2020-10-26 19:27:10,245 - BaseClass -INFO - cx adress fils
+2020-10-26 19:27:10,305 - BaseClass -INFO - cx city fils
+2020-10-26 19:27:10,370 - BaseClass -INFO - cx state fils
+2020-10-26 19:27:10,413 - BaseClass -INFO - cx name fils
+2020-10-26 19:27:10,469 - BaseClass -INFO - cx pin fils
+2020-10-26 19:27:10,531 - BaseClass -INFO - cx Mobile fils
+2020-10-26 19:27:10,656 - BaseClass -INFO - cx passw fils
+2020-10-26 19:27:12,141 - BaseClass -INFO - from submit
+2020-10-26 19:27:15,141 - BaseClass -INFO - validation started....
+2020-10-26 19:27:15,231 - BaseClass -INFO - test case passed....
+2020-10-26 19:27:15,842 - BaseClass -INFO - execution completed
+2020-10-26 19:29:55,639 - BaseClass -INFO - Chrome Open
+2020-10-26 19:29:58,329 - BaseClass -INFO - Base URL Open
+2020-10-26 19:29:59,204 - BaseClass -INFO - Usename set
+2020-10-26 19:29:59,262 - BaseClass -INFO - password set
+2020-10-26 19:30:00,963 - BaseClass -INFO - Login click
+2020-10-26 19:30:04,063 - BaseClass -INFO - Login passed
+2020-10-26 19:30:10,523 - BaseClass -INFO - Usename set
+2020-10-26 19:30:10,575 - BaseClass -INFO - password set
+2020-10-26 19:30:12,057 - BaseClass -INFO - Login click
+2020-10-26 19:30:15,134 - BaseClass -INFO - Login passed
+2020-10-26 19:30:21,468 - BaseClass -INFO - execution completed
+2020-10-26 19:31:07,662 - BaseClass -INFO - Chrome Open
+2020-10-26 19:31:10,723 - BaseClass -INFO - Base URL Open
+2020-10-26 19:31:11,581 - BaseClass -INFO - Usename set
+2020-10-26 19:31:11,640 - BaseClass -INFO - password set
+2020-10-26 19:31:13,043 - BaseClass -INFO - Login click
+2020-10-26 19:31:16,064 - BaseClass -INFO - Login passed
+2020-10-26 19:31:22,715 - BaseClass -INFO - Usename set
+2020-10-26 19:31:22,774 - BaseClass -INFO - password set
+2020-10-26 19:31:24,772 - BaseClass -INFO - Login click
+2020-10-26 19:31:27,784 - BaseClass -INFO - Login passed
+2020-10-26 19:31:33,761 - BaseClass -INFO - Usename set
+2020-10-26 19:31:33,809 - BaseClass -INFO - password set
+2020-10-26 19:31:36,777 - BaseClass -INFO - Login click
+2020-10-26 19:31:39,785 - BaseClass -INFO - Login passed
+2020-10-26 19:31:45,636 - BaseClass -INFO - Usename set
+2020-10-26 19:31:45,689 - BaseClass -INFO - password set
+2020-10-26 19:31:47,041 - BaseClass -INFO - Login click
+2020-10-26 19:31:50,043 - BaseClass -INFO - Login passed
+2020-10-26 19:31:56,190 - BaseClass -INFO - execution completed
+2020-10-26 19:31:59,418 - BaseClass -INFO - Chrome Open
+2020-10-26 19:32:02,626 - BaseClass -INFO - Base URL Open
+2020-10-26 19:32:03,848 - BaseClass -INFO - driver init
+2020-10-26 19:32:03,920 - BaseClass -INFO - username pass
+2020-10-26 19:32:03,975 - BaseClass -INFO - password pass
+2020-10-26 19:32:06,914 - BaseClass -INFO - login click
+2020-10-26 19:32:06,922 - BaseClass -INFO - Login test PASS
+2020-10-26 19:32:07,529 - BaseClass -INFO - execution completed
+2020-10-26 19:32:10,750 - BaseClass -INFO - Chrome Open
+2020-10-26 19:32:15,184 - BaseClass -INFO - Base URL Open
+2020-10-26 19:32:15,185 - BaseClass -INFO - driver init
+2020-10-26 19:32:15,251 - BaseClass -INFO - username pass
+2020-10-26 19:32:15,307 - BaseClass -INFO - password pass
+2020-10-26 19:32:16,702 - BaseClass -INFO - login click
+2020-10-26 19:32:21,727 - BaseClass -INFO - New cx
+2020-10-26 19:32:21,809 - BaseClass -INFO - cx name fils
+2020-10-26 19:32:21,860 - BaseClass -INFO - Gender fils
+2020-10-26 19:32:21,970 - BaseClass -INFO - DOD fils
+2020-10-26 19:32:22,041 - BaseClass -INFO - cx adress fils
+2020-10-26 19:32:22,110 - BaseClass -INFO - cx city fils
+2020-10-26 19:32:22,164 - BaseClass -INFO - cx state fils
+2020-10-26 19:32:22,205 - BaseClass -INFO - cx name fils
+2020-10-26 19:32:22,255 - BaseClass -INFO - cx pin fils
+2020-10-26 19:32:22,313 - BaseClass -INFO - cx Mobile fils
+2020-10-26 19:32:22,439 - BaseClass -INFO - cx passw fils
+2020-10-26 19:32:24,330 - BaseClass -INFO - from submit
+2020-10-26 19:32:27,331 - BaseClass -INFO - validation started....
+2020-10-26 19:32:27,389 - BaseClass -INFO - test case passed....
+2020-10-26 19:32:28,022 - BaseClass -INFO - execution completed
+2020-10-26 19:52:04,288 - BaseClass -INFO - Chrome Open
+2020-10-26 19:52:06,998 - BaseClass -INFO - Base URL Open
+2020-10-26 19:52:08,124 - BaseClass -INFO - driver init
+2020-10-26 19:52:08,224 - BaseClass -INFO - username pass
+2020-10-26 19:52:08,279 - BaseClass -INFO - password pass
+2020-10-26 19:52:09,682 - BaseClass -INFO - login click
+2020-10-26 19:52:09,694 - BaseClass -INFO - Login test PASS
+2020-10-26 19:52:10,499 - BaseClass -INFO - execution completed
+2020-10-26 19:54:07,161 - BaseClass -INFO - Chrome Open
+2020-10-26 19:54:09,733 - BaseClass -INFO - Base URL Open
+2020-10-26 19:54:09,735 - BaseClass -INFO - driver init
+2020-10-26 19:54:09,801 - BaseClass -INFO - username pass
+2020-10-26 19:54:09,856 - BaseClass -INFO - password pass
+2020-10-26 19:54:11,183 - BaseClass -INFO - login click
+2020-10-26 19:54:16,166 - BaseClass -INFO - New cx
+2020-10-26 19:54:16,229 - BaseClass -INFO - cx name fils
+2020-10-26 19:54:16,282 - BaseClass -INFO - Gender fils
+2020-10-26 19:54:16,386 - BaseClass -INFO - DOD fils
+2020-10-26 19:54:16,476 - BaseClass -INFO - cx adress fils
+2020-10-26 19:54:16,531 - BaseClass -INFO - cx city fils
+2020-10-26 19:54:16,581 - BaseClass -INFO - cx state fils
+2020-10-26 19:54:16,624 - BaseClass -INFO - cx name fils
+2020-10-26 19:54:16,677 - BaseClass -INFO - cx pin fils
+2020-10-26 19:54:16,735 - BaseClass -INFO - cx Mobile fils
+2020-10-26 19:54:16,871 - BaseClass -INFO - cx passw fils
+2020-10-26 19:54:18,239 - BaseClass -INFO - from submit
+2020-10-26 19:54:21,240 - BaseClass -INFO - validation started....
+2020-10-26 19:54:21,306 - BaseClass -INFO - test case passed....
+2020-10-26 19:54:21,908 - BaseClass -INFO - execution completed
+2020-10-26 19:55:13,772 - BaseClass -INFO - Chrome Open
+2020-10-26 19:55:16,197 - BaseClass -INFO - Base URL Open
+2020-10-26 19:55:17,355 - BaseClass -INFO - driver init
+2020-10-26 19:55:17,426 - BaseClass -INFO - username pass
+2020-10-26 19:55:17,482 - BaseClass -INFO - password pass
+2020-10-26 19:55:18,966 - BaseClass -INFO - login click
+2020-10-26 19:55:18,981 - BaseClass -INFO - Login test PASS
+2020-10-26 19:55:19,592 - BaseClass -INFO - execution completed
+2020-10-26 19:55:22,799 - BaseClass -INFO - Chrome Open
+2020-10-26 19:55:25,486 - BaseClass -INFO - Base URL Open
+2020-10-26 19:55:26,186 - BaseClass -INFO - Usename set
+2020-10-26 19:55:26,244 - BaseClass -INFO - password set
+2020-10-26 19:55:27,987 - BaseClass -INFO - Login click
+2020-10-26 19:55:31,483 - BaseClass -INFO - Login passed
+2020-10-26 19:55:36,279 - BaseClass -INFO - Usename set
+2020-10-26 19:55:36,333 - BaseClass -INFO - password set
+2020-10-26 19:55:37,519 - BaseClass -INFO - Login click
+2020-10-26 19:55:40,529 - BaseClass -INFO - Login passed
+2020-10-26 19:55:46,512 - BaseClass -INFO - Usename set
+2020-10-26 19:55:46,566 - BaseClass -INFO - password set
+2020-10-26 19:55:47,875 - BaseClass -INFO - Login click
+2020-10-26 19:55:50,879 - BaseClass -INFO - Login passed
+2020-10-26 19:55:56,261 - BaseClass -INFO - Usename set
+2020-10-26 19:55:56,310 - BaseClass -INFO - password set
+2020-10-26 19:55:57,606 - BaseClass -INFO - Login click
+2020-10-26 19:56:00,610 - BaseClass -INFO - Login passed
+2020-10-26 19:56:06,715 - BaseClass -INFO - execution completed
+2020-10-26 19:56:10,052 - BaseClass -INFO - Chrome Open
+2020-10-26 19:56:12,786 - BaseClass -INFO - Base URL Open
+2020-10-26 19:56:12,788 - BaseClass -INFO - driver init
+2020-10-26 19:56:12,853 - BaseClass -INFO - username pass
+2020-10-26 19:56:12,910 - BaseClass -INFO - password pass
+2020-10-26 19:56:14,283 - BaseClass -INFO - login click
+2020-10-26 19:56:19,104 - BaseClass -INFO - New cx
+2020-10-26 19:56:19,178 - BaseClass -INFO - cx name fils
+2020-10-26 19:56:19,226 - BaseClass -INFO - Gender fils
+2020-10-26 19:56:19,337 - BaseClass -INFO - DOD fils
+2020-10-26 19:56:19,407 - BaseClass -INFO - cx adress fils
+2020-10-26 19:56:19,473 - BaseClass -INFO - cx city fils
+2020-10-26 19:56:19,520 - BaseClass -INFO - cx state fils
+2020-10-26 19:56:19,561 - BaseClass -INFO - cx name fils
+2020-10-26 19:56:19,615 - BaseClass -INFO - cx pin fils
+2020-10-26 19:56:19,674 - BaseClass -INFO - cx Mobile fils
+2020-10-26 19:56:19,802 - BaseClass -INFO - cx passw fils
+2020-10-26 19:56:21,020 - BaseClass -INFO - from submit
+2020-10-26 19:56:24,021 - BaseClass -INFO - validation started....
+2020-10-26 19:56:24,085 - BaseClass -INFO - test case passed....
+2020-10-26 19:56:24,726 - BaseClass -INFO - execution completed
+2020-10-26 19:59:27,997 - BaseClass -INFO - Chrome Open
+2020-10-26 19:59:30,742 - BaseClass -INFO - Base URL Open
+2020-10-26 19:59:31,991 - BaseClass -INFO - driver init
+2020-10-26 19:59:32,073 - BaseClass -INFO - username pass
+2020-10-26 19:59:32,164 - BaseClass -INFO - password pass
+2020-10-26 19:59:33,549 - BaseClass -INFO - login click
+2020-10-26 19:59:33,561 - BaseClass -INFO - Login test PASS
+2020-10-26 19:59:34,187 - BaseClass -INFO - execution completed
+2020-10-26 19:59:37,441 - BaseClass -INFO - Chrome Open
+2020-10-26 19:59:41,229 - BaseClass -INFO - Base URL Open
+2020-10-26 19:59:42,432 - BaseClass -INFO - Usename set
+2020-10-26 19:59:42,520 - BaseClass -INFO - password set
+2020-10-26 19:59:44,206 - BaseClass -INFO - Login click
+2020-10-26 19:59:47,447 - BaseClass -INFO - Login passed
+2020-10-26 20:00:21,292 - BaseClass -INFO - execution completed
+2020-10-26 20:00:24,549 - BaseClass -INFO - Chrome Open
+2020-10-26 20:00:26,911 - BaseClass -INFO - Base URL Open
+2020-10-26 20:00:26,913 - BaseClass -INFO - driver init
+2020-10-26 20:00:26,981 - BaseClass -INFO - username pass
+2020-10-26 20:00:27,036 - BaseClass -INFO - password pass
+2020-10-26 20:00:28,302 - BaseClass -INFO - login click
+2020-10-26 20:00:33,253 - BaseClass -INFO - New cx
+2020-10-26 20:00:33,317 - BaseClass -INFO - cx name fils
+2020-10-26 20:00:33,369 - BaseClass -INFO - Gender fils
+2020-10-26 20:00:33,485 - BaseClass -INFO - DOD fils
+2020-10-26 20:00:33,580 - BaseClass -INFO - cx adress fils
+2020-10-26 20:00:33,635 - BaseClass -INFO - cx city fils
+2020-10-26 20:00:33,686 - BaseClass -INFO - cx state fils
+2020-10-26 20:00:33,732 - BaseClass -INFO - cx name fils
+2020-10-26 20:00:33,796 - BaseClass -INFO - cx pin fils
+2020-10-26 20:00:33,858 - BaseClass -INFO - cx Mobile fils
+2020-10-26 20:00:33,996 - BaseClass -INFO - cx passw fils
+2020-10-26 20:00:35,237 - BaseClass -INFO - from submit
+2020-10-26 20:00:38,238 - BaseClass -INFO - validation started....
+2020-10-26 20:00:38,292 - BaseClass -INFO - test case passed....
+2020-10-26 20:00:38,916 - BaseClass -INFO - execution completed
+2020-10-27 15:54:49,481 - BaseClass -INFO - Chrome Open
+2020-10-27 15:54:52,622 - BaseClass -INFO - Base URL Open
+2020-10-27 15:54:53,922 - BaseClass -INFO - driver init
+2020-10-27 15:54:54,013 - BaseClass -INFO - username pass
+2020-10-27 15:54:54,070 - BaseClass -INFO - password pass
+2020-10-27 15:54:55,547 - BaseClass -INFO - login click
+2020-10-27 15:54:55,556 - BaseClass -INFO - Login test PASS
+2020-10-27 15:54:56,229 - BaseClass -INFO - execution completed
+2020-10-27 15:54:59,383 - BaseClass -INFO - Chrome Open
+2020-10-27 15:55:02,810 - BaseClass -INFO - Base URL Open
+2020-10-27 15:55:04,566 - BaseClass -INFO - Usename set
+2020-10-27 15:55:04,624 - BaseClass -INFO - password set
+2020-10-27 15:55:05,050 - BaseClass -INFO - Login click
+2020-10-27 15:55:08,099 - BaseClass -INFO - Login passed
+2020-10-27 15:55:13,757 - BaseClass -INFO - Usename set
+2020-10-27 15:55:13,810 - BaseClass -INFO - password set
+2020-10-27 15:55:14,782 - BaseClass -INFO - Login click
+2020-10-27 15:55:17,792 - BaseClass -INFO - Login passed
+2020-10-27 15:55:23,205 - BaseClass -INFO - Usename set
+2020-10-27 15:55:23,260 - BaseClass -INFO - password set
+2020-10-27 15:55:24,068 - BaseClass -INFO - Login click
+2020-10-27 15:55:27,076 - BaseClass -INFO - Login passed
+2020-10-27 15:55:33,015 - BaseClass -INFO - Usename set
+2020-10-27 15:55:33,067 - BaseClass -INFO - password set
+2020-10-27 15:55:33,953 - BaseClass -INFO - Login click
+2020-10-27 15:55:36,963 - BaseClass -INFO - Login passed
+2020-10-27 15:55:43,265 - BaseClass -INFO - execution completed
+2020-10-27 15:55:46,436 - BaseClass -INFO - Chrome Open
+2020-10-27 15:55:48,682 - BaseClass -INFO - Base URL Open
+2020-10-27 15:55:48,683 - BaseClass -INFO - driver init
+2020-10-27 15:55:48,761 - BaseClass -INFO - username pass
+2020-10-27 15:55:48,825 - BaseClass -INFO - password pass
+2020-10-27 15:55:48,872 - BaseClass -INFO - login click
+2020-10-27 15:55:53,291 - BaseClass -INFO - New cx
+2020-10-27 15:55:53,359 - BaseClass -INFO - cx name fils
+2020-10-27 15:55:53,436 - BaseClass -INFO - Gender fils
+2020-10-27 15:55:53,531 - BaseClass -INFO - DOD fils
+2020-10-27 15:55:53,599 - BaseClass -INFO - cx adress fils
+2020-10-27 15:55:53,648 - BaseClass -INFO - cx city fils
+2020-10-27 15:55:53,698 - BaseClass -INFO - cx state fils
+2020-10-27 15:55:53,734 - BaseClass -INFO - cx name fils
+2020-10-27 15:55:53,792 - BaseClass -INFO - cx pin fils
+2020-10-27 15:55:53,849 - BaseClass -INFO - cx Mobile fils
+2020-10-27 15:55:53,969 - BaseClass -INFO - cx passw fils
+2020-10-27 15:55:55,005 - BaseClass -INFO - from submit
+2020-10-27 15:55:58,006 - BaseClass -INFO - validation started....
+2020-10-27 15:55:58,040 - BaseClass -INFO - test case passed....
+2020-10-27 15:55:58,668 - BaseClass -INFO - execution completed
+2020-10-27 16:04:06,359 - BaseClass -INFO - Chrome Open
+2020-10-27 16:04:09,649 - BaseClass -INFO - Base URL Open
+2020-10-27 16:04:10,923 - BaseClass -INFO - driver init
+2020-10-27 16:04:10,993 - BaseClass -INFO - username pass
+2020-10-27 16:04:11,057 - BaseClass -INFO - password pass
+2020-10-27 16:04:11,139 - BaseClass -INFO - login click
+2020-10-27 16:04:12,882 - BaseClass -INFO - execution completed
+2020-10-27 16:04:16,063 - BaseClass -INFO - Chrome Open
+2020-10-27 16:04:18,658 - BaseClass -INFO - Base URL Open
+2020-10-27 16:04:20,085 - BaseClass -INFO - Usename set
+2020-10-27 16:04:20,183 - BaseClass -INFO - password set
+2020-10-27 16:04:20,249 - BaseClass -INFO - Login click
+2020-10-27 16:04:23,263 - BaseClass -INFO - Login passed
+2020-10-27 16:05:33,683 - BaseClass -INFO - execution completed
+2020-10-27 16:23:18,086 - BaseClass -INFO - Chrome Open
+2020-10-27 16:23:20,636 - BaseClass -INFO - Base URL Open
+2020-10-27 16:23:22,351 - BaseClass -INFO - driver init
+2020-10-27 16:23:22,441 - BaseClass -INFO - username pass
+2020-10-27 16:23:22,498 - BaseClass -INFO - password pass
+2020-10-27 16:23:22,560 - BaseClass -INFO - login click
+2020-10-27 16:23:24,445 - BaseClass -INFO - execution completed
+2020-10-27 16:23:27,713 - BaseClass -INFO - Chrome Open
+2020-10-27 16:23:29,721 - BaseClass -INFO - Base URL Open
+2020-10-27 16:23:30,827 - BaseClass -INFO - Usename set
+2020-10-27 16:23:30,921 - BaseClass -INFO - password set
+2020-10-27 16:23:32,761 - BaseClass -INFO - Login click
+2020-10-27 16:23:35,778 - BaseClass -INFO - Login passed
+2020-10-27 16:23:41,133 - BaseClass -INFO - Usename set
+2020-10-27 16:23:41,197 - BaseClass -INFO - password set
+2020-10-27 16:23:42,095 - BaseClass -INFO - Login click
+2020-10-27 16:23:45,104 - BaseClass -INFO - Login passed
+2020-10-27 16:23:49,583 - BaseClass -INFO - Usename set
+2020-10-27 16:23:49,639 - BaseClass -INFO - password set
+2020-10-27 16:23:49,743 - BaseClass -INFO - Login click
+2020-10-27 16:23:52,753 - BaseClass -INFO - Login passed
+2020-10-27 16:23:58,747 - BaseClass -INFO - Usename set
+2020-10-27 16:23:58,799 - BaseClass -INFO - password set
+2020-10-27 16:23:59,811 - BaseClass -INFO - Login click
+2020-10-27 16:24:02,823 - BaseClass -INFO - Login passed
+2020-10-27 16:24:09,095 - BaseClass -INFO - execution completed
+2020-10-27 16:24:12,295 - BaseClass -INFO - Chrome Open
+2020-10-27 16:24:14,476 - BaseClass -INFO - Base URL Open
+2020-10-27 16:24:14,478 - BaseClass -INFO - driver init
+2020-10-27 16:24:14,571 - BaseClass -INFO - username pass
+2020-10-27 16:24:14,638 - BaseClass -INFO - password pass
+2020-10-27 16:24:14,699 - BaseClass -INFO - login click
+2020-10-27 16:24:19,627 - BaseClass -INFO - New cx
+2020-10-27 16:24:19,715 - BaseClass -INFO - cx name fils
+2020-10-27 16:24:19,871 - BaseClass -INFO - Gender fils
+2020-10-27 16:24:20,007 - BaseClass -INFO - DOD fils
+2020-10-27 16:24:20,103 - BaseClass -INFO - cx adress fils
+2020-10-27 16:24:20,168 - BaseClass -INFO - cx city fils
+2020-10-27 16:24:20,242 - BaseClass -INFO - cx state fils
+2020-10-27 16:24:20,283 - BaseClass -INFO - cx name fils
+2020-10-27 16:24:20,350 - BaseClass -INFO - cx pin fils
+2020-10-27 16:24:20,417 - BaseClass -INFO - cx Mobile fils
+2020-10-27 16:24:20,544 - BaseClass -INFO - cx passw fils
+2020-10-27 16:24:21,508 - BaseClass -INFO - from submit
+2020-10-27 16:24:24,508 - BaseClass -INFO - validation started....
+2020-10-27 16:24:24,535 - BaseClass -INFO - test case passed....
+2020-10-27 16:24:25,147 - BaseClass -INFO - execution completed
+2020-10-27 16:26:44,274 - BaseClass -INFO - Chrome Open
+2020-10-27 16:26:47,389 - BaseClass -INFO - Base URL Open
+2020-10-27 16:26:49,625 - BaseClass -INFO - driver init
+2020-10-27 16:26:49,726 - BaseClass -INFO - username pass
+2020-10-27 16:26:49,817 - BaseClass -INFO - password pass
+2020-10-27 16:26:49,881 - BaseClass -INFO - login click
+2020-10-27 16:26:51,183 - BaseClass -INFO - execution completed
+2020-10-27 16:34:02,923 - BaseClass -INFO - Chrome Open
+2020-10-27 16:34:04,023 - BaseClass -INFO - Base URL Open
+2020-10-27 16:42:43,513 - BaseClass -INFO - Chrome Open
+2020-10-27 16:42:45,946 - BaseClass -INFO - Base URL Open
+2020-10-27 16:42:46,394 - BaseClass -INFO - driver init
+2020-10-27 16:42:47,000 - BaseClass -INFO - username pass
+2020-10-27 16:42:47,402 - BaseClass -INFO - password pass
+2020-10-27 16:42:47,477 - BaseClass -INFO - login click
+2020-10-27 16:42:49,255 - BaseClass -INFO - execution completed
+2020-10-27 16:42:57,307 - BaseClass -INFO - Chrome Open
+2020-10-27 16:43:05,240 - BaseClass -INFO - Chrome Open
+2020-10-27 16:43:05,922 - BaseClass -INFO - Base URL Open
+2020-10-27 16:43:05,924 - BaseClass -INFO - driver init
+2020-10-27 16:43:06,571 - BaseClass -INFO - execution completed
+2020-10-27 16:57:37,110 - BaseClass -INFO - Chrome Open
+2020-10-27 16:57:38,013 - BaseClass -INFO - Base URL Open
+2020-10-27 16:57:39,087 - BaseClass -INFO - execution completed
+2020-10-27 17:00:08,231 - BaseClass -INFO - Chrome Open
+2020-10-27 17:00:10,748 - BaseClass -INFO - Base URL Open
+2020-10-27 18:27:06,300 - BaseClass -INFO - Chrome Open
+2020-10-27 18:27:08,679 - BaseClass -INFO - Base URL Open
+2020-10-27 18:27:10,016 - BaseClass -INFO - driver init
+2020-10-27 18:27:10,082 - BaseClass -INFO - username pass
+2020-10-27 18:27:10,146 - BaseClass -INFO - password pass
+2020-10-27 18:27:10,223 - BaseClass -INFO - login click
+2020-10-27 18:27:12,504 - BaseClass -INFO - execution completed
+2020-10-27 18:27:15,698 - BaseClass -INFO - Chrome Open
+2020-10-27 18:27:17,867 - BaseClass -INFO - Base URL Open
+2020-10-27 18:27:20,015 - BaseClass -INFO - Usename set
+2020-10-27 18:27:20,081 - BaseClass -INFO - password set
+2020-10-27 18:27:20,132 - BaseClass -INFO - Login click
+2020-10-27 18:27:23,148 - BaseClass -INFO - Login passed
+2020-10-27 18:27:27,870 - BaseClass -INFO - Usename set
+2020-10-27 18:27:27,922 - BaseClass -INFO - password set
+2020-10-27 18:27:28,011 - BaseClass -INFO - Login click
+2020-10-27 18:27:31,031 - BaseClass -INFO - Login passed
+2020-10-27 18:27:36,626 - BaseClass -INFO - Usename set
+2020-10-27 18:27:36,675 - BaseClass -INFO - password set
+2020-10-27 18:27:37,604 - BaseClass -INFO - Login click
+2020-10-27 18:27:40,636 - BaseClass -INFO - Login passed
+2020-10-27 18:27:46,034 - BaseClass -INFO - Usename set
+2020-10-27 18:27:46,083 - BaseClass -INFO - password set
+2020-10-27 18:27:46,997 - BaseClass -INFO - Login click
+2020-10-27 18:27:50,015 - BaseClass -INFO - Login passed
+2020-10-27 18:27:54,630 - BaseClass -INFO - execution completed
+2020-10-27 18:27:57,825 - BaseClass -INFO - Chrome Open
+2020-10-27 18:28:00,086 - BaseClass -INFO - Base URL Open
+2020-10-27 18:28:00,086 - BaseClass -INFO - driver init
+2020-10-27 18:28:00,179 - BaseClass -INFO - username pass
+2020-10-27 18:28:00,772 - BaseClass -INFO - password pass
+2020-10-27 18:28:00,825 - BaseClass -INFO - login click
+2020-10-27 18:28:05,428 - BaseClass -INFO - New cx
+2020-10-27 18:28:05,531 - BaseClass -INFO - cx name fils
+2020-10-27 18:28:05,571 - BaseClass -INFO - Gender fils
+2020-10-27 18:28:05,671 - BaseClass -INFO - DOD fils
+2020-10-27 18:28:05,807 - BaseClass -INFO - cx adress fils
+2020-10-27 18:28:05,856 - BaseClass -INFO - cx city fils
+2020-10-27 18:28:05,909 - BaseClass -INFO - cx state fils
+2020-10-27 18:28:05,944 - BaseClass -INFO - cx name fils
+2020-10-27 18:28:05,997 - BaseClass -INFO - cx pin fils
+2020-10-27 18:28:06,055 - BaseClass -INFO - cx Mobile fils
+2020-10-27 18:28:06,188 - BaseClass -INFO - cx passw fils
+2020-10-27 18:28:07,909 - BaseClass -INFO - from submit
+2020-10-27 18:28:10,910 - BaseClass -INFO - validation started....
+2020-10-27 18:28:10,981 - BaseClass -INFO - test case passed....
+2020-10-27 18:28:11,584 - BaseClass -INFO - execution completed
+2020-10-27 18:31:39,717 - BaseClass -INFO - Chrome Open
+2020-10-27 18:31:41,793 - BaseClass -INFO - Base URL Open
+2020-10-27 18:31:43,033 - BaseClass -INFO - driver init
+2020-10-27 18:31:43,220 - BaseClass -INFO - username pass
+2020-10-27 18:31:43,286 - BaseClass -INFO - password pass
+2020-10-27 18:31:44,721 - BaseClass -INFO - login click
+2020-10-27 18:31:44,729 - BaseClass -INFO - Login test PASS
+2020-10-27 18:31:45,381 - BaseClass -INFO - execution completed
+2020-10-27 18:31:48,695 - BaseClass -INFO - Chrome Open
+2020-10-27 18:31:50,742 - BaseClass -INFO - Base URL Open
+2020-10-27 18:31:52,218 - BaseClass -INFO - Usename set
+2020-10-27 18:31:52,787 - BaseClass -INFO - password set
+2020-10-27 18:31:52,968 - BaseClass -INFO - Login click
+2020-10-27 18:31:56,034 - BaseClass -INFO - Login passed
+2020-10-27 18:32:00,957 - BaseClass -INFO - Usename set
+2020-10-27 18:32:01,017 - BaseClass -INFO - password set
+2020-10-27 18:32:01,408 - BaseClass -INFO - Login click
+2020-10-27 18:32:04,434 - BaseClass -INFO - Login passed
+2020-10-27 18:32:09,095 - BaseClass -INFO - Usename set
+2020-10-27 18:32:09,156 - BaseClass -INFO - password set
+2020-10-27 18:32:10,218 - BaseClass -INFO - Login click
+2020-10-27 18:32:13,234 - BaseClass -INFO - Login passed
+2020-10-27 18:32:18,662 - BaseClass -INFO - Usename set
+2020-10-27 18:32:18,723 - BaseClass -INFO - password set
+2020-10-27 18:32:20,158 - BaseClass -INFO - Login click
+2020-10-27 18:32:23,175 - BaseClass -INFO - Login passed
+2020-10-27 18:32:27,799 - BaseClass -INFO - execution completed
+2020-10-27 18:32:31,066 - BaseClass -INFO - Chrome Open
+2020-10-27 18:32:33,404 - BaseClass -INFO - Base URL Open
+2020-10-27 18:32:33,406 - BaseClass -INFO - driver init
+2020-10-27 18:32:33,489 - BaseClass -INFO - username pass
+2020-10-27 18:32:33,572 - BaseClass -INFO - password pass
+2020-10-27 18:32:33,719 - BaseClass -INFO - login click
+2020-10-27 18:32:38,356 - BaseClass -INFO - New cx
+2020-10-27 18:32:38,477 - BaseClass -INFO - cx name fils
+2020-10-27 18:32:38,524 - BaseClass -INFO - Gender fils
+2020-10-27 18:32:38,714 - BaseClass -INFO - DOD fils
+2020-10-27 18:32:38,782 - BaseClass -INFO - cx adress fils
+2020-10-27 18:32:38,841 - BaseClass -INFO - cx city fils
+2020-10-27 18:32:38,893 - BaseClass -INFO - cx state fils
+2020-10-27 18:32:38,933 - BaseClass -INFO - cx name fils
+2020-10-27 18:32:38,986 - BaseClass -INFO - cx pin fils
+2020-10-27 18:32:39,048 - BaseClass -INFO - cx Mobile fils
+2020-10-27 18:32:39,199 - BaseClass -INFO - cx passw fils
+2020-10-27 18:32:40,223 - BaseClass -INFO - from submit
+2020-10-27 18:32:43,223 - BaseClass -INFO - validation started....
+2020-10-27 18:32:43,282 - BaseClass -INFO - test case passed....
+2020-10-27 18:32:43,918 - BaseClass -INFO - execution completed
+2020-10-27 18:34:37,172 - BaseClass -INFO - Chrome Open
+2020-10-27 18:34:39,690 - BaseClass -INFO - Base URL Open
+2020-10-27 18:34:41,903 - BaseClass -INFO - driver init
+2020-10-27 18:34:42,076 - BaseClass -INFO - username pass
+2020-10-27 18:34:42,149 - BaseClass -INFO - password pass
+2020-10-27 18:34:42,206 - BaseClass -INFO - login click
+2020-10-27 18:34:43,229 - BaseClass -INFO - execution completed
+2020-10-27 18:34:46,552 - BaseClass -INFO - Chrome Open
+2020-10-27 18:34:48,679 - BaseClass -INFO - Base URL Open
+2020-10-27 18:34:50,073 - BaseClass -INFO - Usename set
+2020-10-27 18:34:50,128 - BaseClass -INFO - password set
+2020-10-27 18:34:50,174 - BaseClass -INFO - Login click
+2020-10-27 18:34:53,193 - BaseClass -INFO - Login passed
+2020-10-27 18:34:58,201 - BaseClass -INFO - Usename set
+2020-10-27 18:34:58,259 - BaseClass -INFO - password set
+2020-10-27 18:34:59,395 - BaseClass -INFO - Login click
+2020-10-27 18:35:02,426 - BaseClass -INFO - Login passed
+2020-10-27 18:35:07,930 - BaseClass -INFO - Usename set
+2020-10-27 18:35:07,985 - BaseClass -INFO - password set
+2020-10-27 18:35:08,911 - BaseClass -INFO - Login click
+2020-10-27 18:35:11,922 - BaseClass -INFO - Login passed
+2020-10-27 18:35:17,387 - BaseClass -INFO - Usename set
+2020-10-27 18:35:17,438 - BaseClass -INFO - password set
+2020-10-27 18:35:18,955 - BaseClass -INFO - Login click
+2020-10-27 18:35:21,972 - BaseClass -INFO - Login passed
+2020-10-27 18:35:26,540 - BaseClass -INFO - execution completed
+2020-10-27 18:35:29,779 - BaseClass -INFO - Chrome Open
+2020-10-27 18:35:34,282 - BaseClass -INFO - Base URL Open
+2020-10-27 18:35:34,284 - BaseClass -INFO - driver init
+2020-10-27 18:35:34,345 - BaseClass -INFO - username pass
+2020-10-27 18:35:34,451 - BaseClass -INFO - password pass
+2020-10-27 18:35:34,963 - BaseClass -INFO - login click
+2020-10-27 18:35:46,251 - BaseClass -INFO - New cx
+2020-10-27 18:35:46,311 - BaseClass -INFO - cx name fils
+2020-10-27 18:35:46,436 - BaseClass -INFO - Gender fils
+2020-10-27 18:35:46,573 - BaseClass -INFO - DOD fils
+2020-10-27 18:35:46,641 - BaseClass -INFO - cx adress fils
+2020-10-27 18:35:46,688 - BaseClass -INFO - cx city fils
+2020-10-27 18:35:46,734 - BaseClass -INFO - cx state fils
+2020-10-27 18:35:46,763 - BaseClass -INFO - cx name fils
+2020-10-27 18:35:46,812 - BaseClass -INFO - cx pin fils
+2020-10-27 18:35:46,868 - BaseClass -INFO - cx Mobile fils
+2020-10-27 18:35:46,987 - BaseClass -INFO - cx passw fils
+2020-10-27 18:35:48,128 - BaseClass -INFO - from submit
+2020-10-27 18:35:51,129 - BaseClass -INFO - validation started....
+2020-10-27 18:35:51,189 - BaseClass -INFO - test case passed....
+2020-10-27 18:35:51,783 - BaseClass -INFO - execution completed
+2020-10-27 18:37:13,178 - BaseClass -INFO - Chrome Open
+2020-10-27 18:37:15,171 - BaseClass -INFO - Base URL Open
+2020-10-27 18:37:17,153 - BaseClass -INFO - driver init
+2020-10-27 18:37:17,249 - BaseClass -INFO - username pass
+2020-10-27 18:37:17,300 - BaseClass -INFO - password pass
+2020-10-27 18:37:18,988 - BaseClass -INFO - login click
+2020-10-27 18:37:19,005 - BaseClass -INFO - Login test PASS
+2020-10-27 18:37:19,619 - BaseClass -INFO - execution completed
+2020-10-27 18:37:22,855 - BaseClass -INFO - Chrome Open
+2020-10-27 18:37:25,390 - BaseClass -INFO - Base URL Open
+2020-10-27 18:37:27,100 - BaseClass -INFO - Usename set
+2020-10-27 18:37:27,198 - BaseClass -INFO - password set
+2020-10-27 18:37:27,254 - BaseClass -INFO - Login click
+2020-10-27 18:37:30,268 - BaseClass -INFO - Login passed
+2020-10-27 18:37:35,323 - BaseClass -INFO - Usename set
+2020-10-27 18:37:35,371 - BaseClass -INFO - password set
+2020-10-27 18:37:36,366 - BaseClass -INFO - Login click
+2020-10-27 18:37:39,400 - BaseClass -INFO - Login passed
+2020-10-27 18:37:46,188 - BaseClass -INFO - Usename set
+2020-10-27 18:37:46,236 - BaseClass -INFO - password set
+2020-10-27 18:37:47,313 - BaseClass -INFO - Login click
+2020-10-27 18:37:50,341 - BaseClass -INFO - Login passed
+2020-10-27 18:37:56,869 - BaseClass -INFO - Usename set
+2020-10-27 18:37:56,918 - BaseClass -INFO - password set
+2020-10-27 18:37:57,952 - BaseClass -INFO - Login click
+2020-10-27 18:38:00,968 - BaseClass -INFO - Login passed
+2020-10-27 18:38:07,434 - BaseClass -INFO - execution completed
+2020-10-27 18:38:10,704 - BaseClass -INFO - Chrome Open
+2020-10-27 18:38:12,954 - BaseClass -INFO - Base URL Open
+2020-10-27 18:38:12,956 - BaseClass -INFO - driver init
+2020-10-27 18:38:13,037 - BaseClass -INFO - username pass
+2020-10-27 18:38:13,119 - BaseClass -INFO - password pass
+2020-10-27 18:38:13,163 - BaseClass -INFO - login click
+2020-10-27 18:38:17,864 - BaseClass -INFO - New cx
+2020-10-27 18:38:18,381 - BaseClass -INFO - cx name fils
+2020-10-27 18:38:18,429 - BaseClass -INFO - Gender fils
+2020-10-27 18:38:18,595 - BaseClass -INFO - DOD fils
+2020-10-27 18:38:18,666 - BaseClass -INFO - cx adress fils
+2020-10-27 18:38:18,723 - BaseClass -INFO - cx city fils
+2020-10-27 18:38:18,779 - BaseClass -INFO - cx state fils
+2020-10-27 18:38:18,809 - BaseClass -INFO - cx name fils
+2020-10-27 18:38:18,856 - BaseClass -INFO - cx pin fils
+2020-10-27 18:38:18,926 - BaseClass -INFO - cx Mobile fils
+2020-10-27 18:38:19,047 - BaseClass -INFO - cx passw fils
+2020-10-27 18:38:20,456 - BaseClass -INFO - from submit
+2020-10-27 18:38:23,456 - BaseClass -INFO - validation started....
+2020-10-27 18:38:23,515 - BaseClass -INFO - test case passed....
+2020-10-27 18:38:24,122 - BaseClass -INFO - execution completed
+2020-10-27 20:04:34,178 - BaseClass -INFO - Chrome Open
+2020-10-27 20:04:36,913 - BaseClass -INFO - Base URL Open
+2020-10-27 20:04:41,277 - BaseClass -INFO - driver init
+2020-10-27 20:04:41,371 - BaseClass -INFO - username pass
+2020-10-27 20:04:41,509 - BaseClass -INFO - password pass
+2020-10-27 20:04:41,566 - BaseClass -INFO - login click
+2020-10-27 20:04:42,115 - BaseClass -INFO - Login test FAIL SS attached
+2020-10-27 20:04:42,747 - BaseClass -INFO - execution completed
+2020-10-27 20:04:46,226 - BaseClass -INFO - Chrome Open
+2020-10-27 20:04:48,431 - BaseClass -INFO - Base URL Open
+2020-10-27 20:04:51,061 - BaseClass -INFO - Usename set
+2020-10-27 20:04:51,122 - BaseClass -INFO - password set
+2020-10-27 20:04:51,170 - BaseClass -INFO - Login click
+2020-10-27 20:04:54,187 - BaseClass -INFO - Login passed
+2020-10-27 20:05:00,142 - BaseClass -INFO - Usename set
+2020-10-27 20:05:00,199 - BaseClass -INFO - password set
+2020-10-27 20:05:01,455 - BaseClass -INFO - Login click
+2020-10-27 20:05:04,483 - BaseClass -INFO - Login passed
+2020-10-27 20:05:09,040 - BaseClass -INFO - Usename set
+2020-10-27 20:05:09,089 - BaseClass -INFO - password set
+2020-10-27 20:05:09,132 - BaseClass -INFO - Login click
+2020-10-27 20:05:12,150 - BaseClass -INFO - Login passed
+2020-10-27 20:05:17,892 - BaseClass -INFO - Usename set
+2020-10-27 20:05:17,951 - BaseClass -INFO - password set
+2020-10-27 20:05:19,028 - BaseClass -INFO - Login click
+2020-10-27 20:05:22,058 - BaseClass -INFO - Login passed
+2020-10-27 20:05:27,724 - BaseClass -INFO - execution completed
+2020-10-27 20:05:31,038 - BaseClass -INFO - Chrome Open
+2020-10-27 20:05:33,322 - BaseClass -INFO - Base URL Open
+2020-10-27 20:05:33,323 - BaseClass -INFO - driver init
+2020-10-27 20:05:33,418 - BaseClass -INFO - username pass
+2020-10-27 20:05:33,507 - BaseClass -INFO - password pass
+2020-10-27 20:05:33,557 - BaseClass -INFO - login click
+2020-10-27 20:05:38,410 - BaseClass -INFO - New cx
+2020-10-27 20:05:38,495 - BaseClass -INFO - cx name fils
+2020-10-27 20:05:38,559 - BaseClass -INFO - Gender fils
+2020-10-27 20:05:38,668 - BaseClass -INFO - DOD fils
+2020-10-27 20:05:38,732 - BaseClass -INFO - cx adress fils
+2020-10-27 20:05:38,777 - BaseClass -INFO - cx city fils
+2020-10-27 20:05:38,911 - BaseClass -INFO - cx state fils
+2020-10-27 20:05:38,948 - BaseClass -INFO - cx name fils
+2020-10-27 20:05:39,004 - BaseClass -INFO - cx pin fils
+2020-10-27 20:05:39,058 - BaseClass -INFO - cx Mobile fils
+2020-10-27 20:05:39,180 - BaseClass -INFO - cx passw fils
+2020-10-27 20:05:40,207 - BaseClass -INFO - from submit
+2020-10-27 20:05:43,209 - BaseClass -INFO - validation started....
+2020-10-27 20:05:43,273 - BaseClass -INFO - test case passed....
+2020-10-27 20:05:43,868 - BaseClass -INFO - execution completed

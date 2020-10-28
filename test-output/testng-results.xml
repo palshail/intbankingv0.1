@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="intBankingV1" duration-ms="67878" started-at="2020-10-27T18:31:36 IST" finished-at="2020-10-27T18:32:43 IST">
+    <groups>
+    </groups>
+    <test name="BankingApp Test" duration-ms="67878" started-at="2020-10-27T18:31:36 IST" finished-at="2020-10-27T18:32:43 IST">
+      <class name="com.intBanking.testCases.AddcustomerTC">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.intBanking.testCases.AddcustomerTC@2833cc44]" name="setup" is-config="true" duration-ms="5604" started-at="2020-10-27T18:32:27 IST" finished-at="2020-10-27T18:32:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Addcustomermethod()[pri:0, instance:com.intBanking.testCases.AddcustomerTC@2833cc44]" name="Addcustomermethod" duration-ms="9877" started-at="2020-10-27T18:32:33 IST" finished-at="2020-10-27T18:32:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addcustomermethod -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.intBanking.testCases.AddcustomerTC@2833cc44]" name="quit" is-config="true" duration-ms="634" started-at="2020-10-27T18:32:43 IST" finished-at="2020-10-27T18:32:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.intBanking.testCases.AddcustomerTC -->
+      <class name="com.intBanking.testCases.LoginTestDDT">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.intBanking.testCases.LoginTestDDT@3712b94]" name="setup" is-config="true" duration-ms="5357" started-at="2020-10-27T18:31:45 IST" finished-at="2020-10-27T18:31:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:0, instance:com.intBanking.testCases.LoginTestDDT@3712b94]" name="LoginTest" duration-ms="8467" started-at="2020-10-27T18:31:51 IST" data-provider="LoginData" finished-at="2020-10-27T18:32:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr291988]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[usEhate]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:0, instance:com.intBanking.testCases.LoginTestDDT@3712b94]" name="LoginTest" duration-ms="8216" started-at="2020-10-27T18:32:00 IST" data-provider="LoginData" finished-at="2020-10-27T18:32:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr291988]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[usEhate]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:0, instance:com.intBanking.testCases.LoginTestDDT@3712b94]" name="LoginTest" duration-ms="10151" started-at="2020-10-27T18:32:08 IST" data-provider="LoginData" finished-at="2020-10-27T18:32:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr291988]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[usEhate]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:0, instance:com.intBanking.testCases.LoginTestDDT@3712b94]" name="LoginTest" duration-ms="8567" started-at="2020-10-27T18:32:18 IST" data-provider="LoginData" finished-at="2020-10-27T18:32:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr291988]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[usEhate]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.intBanking.testCases.LoginTestDDT@3712b94]" name="quit" is-config="true" duration-ms="641" started-at="2020-10-27T18:32:27 IST" finished-at="2020-10-27T18:32:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.intBanking.testCases.LoginTestDDT -->
+      <class name="com.intBanking.testCases.TC_logintest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.intBanking.testCases.TC_logintest@4d41cee]" name="setup" is-config="true" duration-ms="5620" started-at="2020-10-27T18:31:36 IST" finished-at="2020-10-27T18:31:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testlogin()[pri:0, instance:com.intBanking.testCases.TC_logintest@4d41cee]" name="testlogin" duration-ms="2914" started-at="2020-10-27T18:31:41 IST" finished-at="2020-10-27T18:31:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.intBanking.testCases.TC_logintest@4d41cee]" name="quit" is-config="true" duration-ms="616" started-at="2020-10-27T18:31:44 IST" finished-at="2020-10-27T18:31:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.intBanking.testCases.TC_logintest -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- intBankingV1 -->
+</testng-results>
